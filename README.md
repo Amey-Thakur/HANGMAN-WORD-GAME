@@ -1,8 +1,7 @@
 # HANGMAN-WORD-GAME
- 
  OOPM (Java) Lab - Project [SEMESTER III]
  
- - [x] **[Reference Books](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME/tree/main/OOPM%20(Java)%20Lab/Reference%20Books)**
+ - [x] **[OOPM JAVA LAB](https://github.com/Amey-Thakur/OOPM-JAVA-LAB)**
  
 ## Project
  
