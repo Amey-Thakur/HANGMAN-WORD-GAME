@@ -1,7 +1,7 @@
 # HANGMAN-WORD-GAME
  CSL304: OOPM (Java) Lab - Project [SEMESTER III]
  
- - [x] **CSL304: [OOPM JAVA LAB](https://github.com/Amey-Thakur/OOPM-JAVA-LAB)**
+ - [X] **CSL304: [OOPM JAVA LAB](https://github.com/Amey-Thakur/OOPM-JAVA-LAB)**
  
 ## Project
  >**_It is a simple Hangman Word Game using Applet in Java._**
