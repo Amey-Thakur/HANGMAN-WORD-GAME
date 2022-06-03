@@ -6,9 +6,15 @@
 
 ## Project
 
->**_It is a simple Hangman Word Game using Applet in Java._**
+ - **_It is a simple Hangman Word Game using Applet in Java._**
  
-  - **[Presentation](http://dx.doi.org/10.13140/RG.2.2.26806.22082)**
+   - **[Presentation](http://dx.doi.org/10.13140/RG.2.2.26806.22082)**
   
-  - **[SOURCE CODE](http://dx.doi.org/10.13140/RG.2.2.20095.33446)**
+   - **[SOURCE CODE](http://dx.doi.org/10.13140/RG.2.2.20095.33446)**
 
+
+---
+
+<p align="center"> <b> 👉🏻 Presented as a part of the 3rd Semester of Engineering @ Terna Engineering College 👈🏻 <b> </p>
+ 
+<p align="center"><a href='https://github.com/Amey-Thakur/ACHIEVEMENTS#engineering', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
