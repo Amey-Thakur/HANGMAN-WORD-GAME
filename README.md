@@ -1,5 +1,5 @@
 # HANGMAN-WORD-GAME
- CSL304: OOPM (Java) Lab - Project [SEMESTER III]
+ 👍🏻 CSL304: OOPM (Java) Lab - Project [SEMESTER III]
  
  - [X] **CSL304: [OOPM JAVA LAB](https://github.com/Amey-Thakur/OOPM-JAVA-LAB)**
 
