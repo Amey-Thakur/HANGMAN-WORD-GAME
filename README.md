@@ -8,9 +8,11 @@
 
  - **_It is a simple Hangman Word Game using Applet in Java._**
  
-   - **[Presentation](http://dx.doi.org/10.13140/RG.2.2.26806.22082)**
+   - **[Project Presentation](http://dx.doi.org/10.13140/RG.2.2.26806.22082)**
   
-   - **[SOURCE CODE](http://dx.doi.org/10.13140/RG.2.2.20095.33446)**
+   - **[Source Code](http://dx.doi.org/10.13140/RG.2.2.20095.33446)**
+   
+   - **[Presentation](https://youtu.be/JsT9KYKPUgs)**
 
 
 ---
