@@ -12,7 +12,7 @@
   
    - **[Source Code](http://dx.doi.org/10.13140/RG.2.2.20095.33446)**
    
-   - **[Presentation](https://youtu.be/JsT9KYKPUgs)**
+   - **[Project Demo](https://youtu.be/JsT9KYKPUgs)**
 
 
 ---
