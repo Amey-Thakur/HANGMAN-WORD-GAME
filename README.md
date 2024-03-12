@@ -4,6 +4,14 @@
  
  - [X] **CSL304: [OOPM JAVA LAB](https://github.com/Amey-Thakur/OOPM-JAVA-LAB)**
 
+## Authors
+  
+   - **[Amey Thakur](https://github.com/Amey-Thakur)**
+   
+   - **[Mega Satish](https://github.com/msatmod)**
+   
+   - **Saakshi Deokar**
+
 
 ## Project
 
@@ -18,6 +26,8 @@
 
 ---
 
-<p align="center"> <b> 👉🏻 Presented as a part of the 3rd Semester of Engineering @ Terna Engineering College 👈🏻 <b> </p>
+<p align="center"> <b> 👉🏻 Presented as a part of the 3rd Semester Mini-Project @ Terna Engineering College 👈🏻 <b> </p>
+
+<p align="center"> <b> 👷 Project Authors: Amey Thakur, Mega Satish and Saakshi Deokar (Batch of 2022) <b> </p>
  
 <p align="center"><a href='https://github.com/Amey-Thakur/ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
