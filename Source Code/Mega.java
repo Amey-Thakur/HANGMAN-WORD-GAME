@@ -1,22 +1,13 @@
-/*
+/**
  * Program: Hangman Word Game (Mini Project)
- * Author: Amey Thakur
- * File: Mega.java
- *
- * Description:
- * A graphical Hangman game implemented using Java Applet and AWT/Swing logic.
- * The game selects a hidden word from a predefined list, and the user must guess
- * characters to save the "stick man" from being hanged.
- *
- * Concepts Covered:
- * - AWT Graphics (methods: paint, drawLine, drawString, etc.)
- * - Event Handling (keyDown, mouseMove)
- * - String Manipulation
- * - Logic Building (Game states: Win/Lose)
- *
- * Repositories:
- * 1. OOPM Java Lab: https://github.com/Amey-Thakur/OOPM-JAVA-LAB
- * 2. Game Repository: https://github.com/Amey-Thakur/HANGMAN-WORD-GAME
+ * Description: A classic graphical Hangman game implemented using Java Applets and AWT/Swing components.
+ *              The game selects a hidden word from a predefined list, and the user must guess
+ *              characters to save the "stick man" from being hanged.
+ * Author: Amey Thakur, Mega Satish, Saakshi Deokar
+ * Reference: https://github.com/Amey-Thakur/HANGMAN-WORD-GAME
+ * 
+ * Note: Applets are deprecated in newer Java versions. This is for educational purposes.
+ * To run: Use 'appletviewer Applet.html' or an IDE that supports Applets.
  */
 
 import java.awt.*; 
