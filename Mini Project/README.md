@@ -19,7 +19,7 @@
 <!-- NAVIGATION -->
 <div align="center">
 
-  **[📖 Overview](#-overview)** &nbsp;·&nbsp; **[📄 Documentation](#-documentation)** &nbsp;·&nbsp; **[🎬 Demonstration](#-demonstration)** &nbsp;·&nbsp; **[📸 Visual Results](#-visual-results)** &nbsp;·&nbsp; **[🏠 Home](../../README.md)**
+  **[📖 Overview](#-overview)** &nbsp;·&nbsp; **[📄 Documentation](#-documentation)** &nbsp;·&nbsp; **[🎬 Demonstration](#-demonstration)** &nbsp;·&nbsp; **[📸 Visual Results](#-visual-results)** &nbsp;·&nbsp; **[🏠 Home](../README.md)**
 
 </div>
 
@@ -76,7 +76,7 @@ The [**Outputs/**](Outputs/) directory contains a complete set of 19 screenshots
 <!-- FOOTER -->
 <div align="center">
 
-  **[⬆ Back to Top](#hangman-word-game-mini-project-documentation)** &nbsp;·&nbsp; **[🏠 Project Home](../../README.md)** &nbsp;·&nbsp; **[💻 Source Code](../../Source%20Code)**
+  **[⬆ Back to Top](#hangman-word-game-mini-project-documentation)** &nbsp;·&nbsp; **[🏠 Project Home](../README.md)** &nbsp;·&nbsp; **[💻 Source Code](../Source%20Code)**
 
   <br>
 
