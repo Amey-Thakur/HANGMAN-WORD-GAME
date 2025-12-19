@@ -7,7 +7,7 @@
 
   [![Source File](https://img.shields.io/badge/📂-Mega.java-orange.svg)](Mega.java)
   [![JDK Version](https://img.shields.io/badge/JDK-8-blue.svg)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)
-  [![Build Status](https://img.shields.io/badge/Status-Review--Ready-green.svg)](Mega.java)
+  [![Project Status](https://img.shields.io/badge/Status-Completed-green.svg)](Mega.java)
 
   **The core logic and graphical implementation of the Hangman Word Game, optimized for educational review.**
 
