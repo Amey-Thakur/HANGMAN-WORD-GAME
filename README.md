@@ -6,7 +6,7 @@
   [![License](https://img.shields.io/badge/License-MIT-green?style=flat&logo=opensourceinitiative&logoColor=white)](LICENSE)
   [![Developed by](https://img.shields.io/badge/Developed%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
-  An AI-powered web application that transforms photographs into cartoon-style images using deep learning.
+  A classic graphical Hangman game implemented using Java Applets and AWT/Swing components.
 
   **[Project Presentation](http://dx.doi.org/10.13140/RG.2.2.26806.22082)** • **[Source Code](http://dx.doi.org/10.13140/RG.2.2.20095.33446)** • **[Video Demo](https://youtu.be/JsT9KYKPUgs)**
 
