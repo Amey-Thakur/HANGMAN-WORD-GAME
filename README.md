@@ -92,22 +92,22 @@ This project implements the classic Hangman word guessing game using Java Applet
 ```
 HANGMAN-WORD-GAME/
 │
-├── Source Code/                  # Java Source Files
-│   └── Mega.java                 # Main Game Logic
+├── Source Code/                     # Java Source Files
+│   └── Mega.java                    # Main Game Logic
 │
-├── Mini Project/                 # Documentation & Reports
-│   ├── WordGame.pdf              # Comprehensive Project Report
-│   ├── WordGame.pptx             # Technical Presentation
-│   ├── Applet.mp4                # Gameplay Video Demonstration
-│   └── Outputs/                  # Visual Results (19 Screenshots)
+├── Mini Project/                    # Documentation & Reports
+│   ├── WordGame.pdf                 # Comprehensive Project Report
+│   ├── WordGame.pptx                # Technical Presentation
+│   ├── Applet.mp4                   # Gameplay Video Demonstration
+│   └── Outputs/                     # Visual Results (19 Screenshots)
 │
-├── Mega/                         # Game & Media Assets
-│   ├── Mega.png                  # Author Profile Image
-│   ├── Saakshi.png                # Author Profile Image
-│   └── (Other Assets...)         # Project-related Media
+├── Mega/                            # Game & Media Assets
+│   ├── Mega.png                     # Author Profile Image
+│   ├── Saakshi.png                  # Author Profile Image
+│   └── (Other Assets...)            # Project-related Media
 │
-├── LICENSE                       # MIT License
-└── README.md                     # Project Documentation
+├── LICENSE                          # MIT License
+└── README.md                        # Project Documentation
 ```
 
 ---
