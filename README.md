@@ -261,4 +261,3 @@ Special thanks to the faculty members of the Department of Computer Engineering 
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
- 
