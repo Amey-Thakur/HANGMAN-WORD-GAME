@@ -147,66 +147,62 @@ HANGMAN-WORD-GAME/
 
 <div align="center">
 
-  ### Startup Dialogs
-  
-  <table>
-  <tr>
-  <td align="center"><b>Welcome</b><br/><img src="Mini Project/Outputs/Welcome_Message.png" width="300"/></td>
-  <td align="center"><b>Goal</b><br/><img src="Mini Project/Outputs/Instructions_Message.png" width="300"/></td>
-  <td align="center"><b>Hint</b><br/><img src="Mini Project/Outputs/Hint_Message.png" width="300"/></td>
-  </tr>
-  <tr>
-  <td align="center"><b>Player Registration</b><br/><img src="Mini Project/Outputs/Player_Name_Input.png" width="300"/></td>
-  <td colspan="2" align="center"><b>Game Interface</b><br/><img src="Mini Project/Outputs/Game_Screen.png" width="600"/></td>
-  </tr>
-  </table>
+  ### Welcome Message
+  ![Welcome Message](Mini%20Project/Outputs/Welcome_Message.png)
 
-  ### Gameplay Interaction
-  
-  <table>
-  <tr>
-  <td align="center"><b>Input Prompt</b><br/><img src="Mini Project/Outputs/Input_Window.png" width="400"/></td>
-  <td align="center"><b>Submitting Answer</b><br/><img src="Mini Project/Outputs/Input_Answer.png" width="400"/></td>
-  </tr>
-  </table>
+  ### Instructions Message
+  ![Instructions Message](Mini%20Project/Outputs/Instructions_Message.png)
 
-  ### Evolution of the Hangman (Misses 1-6)
+  ### Hint Message
+  ![Hint Message](Mini%20Project/Outputs/Hint_Message.png)
 
-  ````carousel
-  ![1 Miss](Mini Project/Outputs/Missed_1.png)
-  <!-- slide -->
-  ![2 Misses](Mini Project/Outputs/Missed_2.png)
-  <!-- slide -->
-  ![3 Misses](Mini Project/Outputs/Missed_3.png)
-  <!-- slide -->
-  ![4 Misses](Mini Project/Outputs/Missed_4.png)
-  <!-- slide -->
-  ![5 Misses](Mini Project/Outputs/Missed_5.png)
-  <!-- slide -->
-  ![6 Misses](Mini Project/Outputs/Missed_6.png)
-  ````
+  ### Player Name Input
+  ![Player Name Input](Mini%20Project/Outputs/Player_Name_Input.png)
 
-  ### The Hanging Animation (Final Miss)
+  ### Game Screen
+  ![Game Screen](Mini%20Project/Outputs/Game_Screen.png)
 
-  ````carousel
-  ![Phase 1](Mini Project/Outputs/Missed_7.1.png)
-  <!-- slide -->
-  ![Phase 2](Mini Project/Outputs/Missed_7.2.png)
-  <!-- slide -->
-  ![Phase 3](Mini Project/Outputs/Missed_7.3.png)
-  ````
+  ### Input Window
+  ![Input Window](Mini%20Project/Outputs/Input_Window.png)
 
-  ### Game Outcomes
+  ### Input Answer
+  ![Input Answer](Mini%20Project/Outputs/Input_Answer.png)
 
-  <table>
-  <tr>
-  <td align="center"><b>Victory (In-Game)</b><br/><img src="Mini Project/Outputs/Win.png" width="400"/></td>
-  <td align="center"><b>Victory (Dialog)</b><br/><img src="Mini Project/Outputs/Input_Win.png" width="400"/></td>
-  </tr>
-  <tr>
-  <td colspan="2" align="center"><b>Defeat</b><br/><img src="Mini Project/Outputs/Lose.png" width="800"/></td>
-  </tr>
-  </table>
+  ### Missed 1
+  ![Missed 1](Mini%20Project/Outputs/Missed_1.png)
+
+  ### Missed 2
+  ![Missed 2](Mini%20Project/Outputs/Missed_2.png)
+
+  ### Missed 3
+  ![Missed 3](Mini%20Project/Outputs/Missed_3.png)
+
+  ### Missed 4
+  ![Missed 4](Mini%20Project/Outputs/Missed_4.png)
+
+  ### Missed 5
+  ![Missed 5](Mini%20Project/Outputs/Missed_5.png)
+
+  ### Missed 6
+  ![Missed 6](Mini%20Project/Outputs/Missed_6.png)
+
+  ### Hanging Animation - Phase 1
+  ![Missed 7.1](Mini%20Project/Outputs/Missed_7.1.png)
+
+  ### Hanging Animation - Phase 2
+  ![Missed 7.2](Mini%20Project/Outputs/Missed_7.2.png)
+
+  ### Hanging Animation - Phase 3
+  ![Missed 7.3](Mini%20Project/Outputs/Missed_7.3.png)
+
+  ### Win (Game Screen)
+  ![Win](Mini%20Project/Outputs/Win.png)
+
+  ### Win (Input Window)
+  ![Input Win](Mini%20Project/Outputs/Input_Win.png)
+
+  ### Lose
+  ![Lose](Mini%20Project/Outputs/Lose.png)
 
 </div>
 
