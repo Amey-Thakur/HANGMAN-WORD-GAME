@@ -19,13 +19,50 @@
 
 <div align="center">
 
-  [📖 Overview](#overview) &nbsp;·&nbsp; [👥 Authors](#authors) &nbsp;·&nbsp; [🖼️ Results](#results-gallery) &nbsp;·&nbsp; [✨ Features](#features) &nbsp;·&nbsp; [📁 Structure](#project-structure) &nbsp;·&nbsp; [🚀 Quick Start](#quick-start) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [🙏 Acknowledgments](#acknowledgments)
+  [👥 Authors](#-authors) &nbsp;·&nbsp; [📖 Overview](#-overview) &nbsp;·&nbsp; [✨ Features](#-features) &nbsp;·&nbsp; [📁 Structure](#-project-structure) &nbsp;·&nbsp; [🚀 Quick Start](#-quick-start) &nbsp;·&nbsp; [🖼️ Results](#-results-gallery) &nbsp;·&nbsp; [📜 License](#-license) &nbsp;·&nbsp; [🙏 Acknowledgments](#-acknowledgments)
 
 </div>
 
 ---
 
-## Overview
+<!-- AUTHORS -->
+<div align="center">
+
+  ## 👥 Authors
+
+  **Terna Engineering College | Computer Engineering | Batch of 2022**
+
+  <table>
+  <tr>
+  <td align="center">
+  <a href="https://github.com/Amey-Thakur">
+  <img src="https://github.com/Amey-Thakur.png" width="150px;" alt="Amey Thakur"/><br />
+  <sub><b>Amey Thakur</b></sub>
+  </a>
+  </td>
+  <td align="center">
+  <a href="https://github.com/msatmod">
+  <img src="https://raw.githubusercontent.com/Amey-Thakur/HANGMAN-WORD-GAME/main/Mega/Mega.png" width="150px;" alt="Mega Satish"/><br />
+  <sub><b>Mega Satish</b></sub>
+  </a>
+  </td>
+  <td align="center">
+  <a href="https://www.linkedin.com/in/saakshideokar/">
+  <img src="https://raw.githubusercontent.com/Amey-Thakur/HANGMAN-WORD-GAME/main/Mega/Saakshi.png" width="150px;" alt="Saakshi Deokar"/><br />
+  <sub><b>Saakshi Deokar</b></sub>
+  </a>
+  </td>
+  </tr>
+  </table>
+
+  *Special thanks to [Mega Satish](https://github.com/msatmod) and [Saakshi Deokar](https://www.linkedin.com/in/saakshideokar/) for their meaningful contributions, guidance, and support that helped shape this work.*
+
+</div>
+
+---
+
+<!-- OVERVIEW -->
+## 📖 Overview
 
 This project implements the classic Hangman word guessing game using Java Applets. It features a graphical user interface built with AWT and Swing components, providing an interactive experience where players guess words to save a stick figure from the gallows.
 
@@ -37,65 +74,8 @@ This project implements the classic Hangman word guessing game using Java Applet
 
 ---
 
-<div align="center">
-
-## 👥 Authors
-
-**Terna Engineering College | Computer Engineering | Batch of 2022**
-
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/Amey-Thakur">
-<img src="https://github.com/Amey-Thakur.png" width="150px;" alt="Amey Thakur"/><br />
-<sub><b>Amey Thakur</b></sub>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/msatmod">
-<img src="https://raw.githubusercontent.com/Amey-Thakur/HANGMAN-WORD-GAME/main/Mega/Mega.png" width="150px;" alt="Mega Satish"/><br />
-<sub><b>Mega Satish</b></sub>
-</a>
-</td>
-<td align="center">
-<a href="https://www.linkedin.com/in/saakshideokar/">
-<img src="https://raw.githubusercontent.com/Amey-Thakur/HANGMAN-WORD-GAME/main/Mega/Saakshi.png" width="150px;" alt="Saakshi Deokar"/><br />
-<sub><b>Saakshi Deokar</b></sub>
-</a>
-</td>
-</tr>
-</table>
-
-*Special thanks to [Mega Satish](https://github.com/msatmod) and [Saakshi Deokar](https://www.linkedin.com/in/saakshideokar/) for their meaningful contributions, guidance, and support that helped shape this work.*
-
-</div>
-
----
-
-## Results Gallery
-
-<div align="center">
-
-### Welcome Screen
-![Welcome Screen](Mini%20Project/Outputs/Welcome_Message.png)
-
-### Player Input
-![Player Input](Mini%20Project/Outputs/Player_Name_Input.png)
-
-### Game Interface
-![Game Interface](Mini%20Project/Outputs/Game_Screen.png)
-
-### Victory
-![Victory](Mini%20Project/Outputs/Win.png)
-
-### Game Over
-![Game Over](Mini%20Project/Outputs/Lose.png)
-
-</div>
-
----
-
-## Features
+<!-- FEATURES -->
+## ✨ Features
 
 | Feature | Description |
 |---------|-------------|
@@ -107,7 +87,8 @@ This project implements the classic Hangman word guessing game using Java Applet
 
 ---
 
-## Project Structure
+<!-- STRUCTURE -->
+## 📁 Project Structure
 
 ```
 HANGMAN-WORD-GAME/
@@ -129,7 +110,8 @@ HANGMAN-WORD-GAME/
 
 ---
 
-## Quick Start
+<!-- QUICK START -->
+## 🚀 Quick Start
 
 ### Prerequisites
 - JDK 8 or higher (with Applet support or AppletViewer)
@@ -144,6 +126,7 @@ HANGMAN-WORD-GAME/
 
 2. **Compile the code**
    ```bash
+   git checkout main
    javac Mega.java
    ```
 
@@ -160,7 +143,32 @@ HANGMAN-WORD-GAME/
 
 ---
 
-## License
+<!-- RESULTS -->
+## 🖼️ Results Gallery
+
+<div align="center">
+
+  ### Welcome Screen
+  ![Welcome Screen](Mini%20Project/Outputs/Welcome_Message.png)
+
+  ### Player Input
+  ![Player Input](Mini%20Project/Outputs/Player_Name_Input.png)
+
+  ### Game Interface
+  ![Game Interface](Mini%20Project/Outputs/Game_Screen.png)
+
+  ### Victory
+  ![Victory](Mini%20Project/Outputs/Win.png)
+
+  ### Game Over
+  ![Game Over](Mini%20Project/Outputs/Lose.png)
+
+</div>
+
+---
+
+<!-- LICENSE -->
+## 📜 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
@@ -168,22 +176,33 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## Acknowledgments
+<!-- ACKNOWLEDGMENTS -->
+## 🙏 Acknowledgments
 
 Developed as part of the 3rd Semester Mini-Project at **Terna Engineering College** (Batch of 2022).
 
 ---
 
+<!-- FOOTER -->
 <div align="center">
 
-**[Issues](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME/issues)**
+  **[⬆ Back to Top](#hangman-word-game)** &nbsp;·&nbsp; [👥 Authors](#-authors) &nbsp;·&nbsp; [📖 Overview](#-overview) &nbsp;·&nbsp; [✨ Features](#-features) &nbsp;·&nbsp; [📁 Structure](#-project-structure) &nbsp;·&nbsp; [🚀 Quick Start](#-quick-start) &nbsp;·&nbsp; [🖼️ Results](#-results-gallery) &nbsp;·&nbsp; [📜 License](#-license) &nbsp;·&nbsp; [🙏 Acknowledgments](#-acknowledgments)
+
+  <br>
+
+  **[Issues](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME/issues)** &nbsp;·&nbsp; **[Pull Requests](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME/pulls)**
+
+</div>
 
 ---
 
-### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+<div align="center">
 
-**Computer Engineering (B.E.) - University of Mumbai**
+  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
-*Semester-wise curriculum, laboratories, projects, and academic notes.*
+  **Computer Engineering (B.E.) - University of Mumbai**
+
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
+
