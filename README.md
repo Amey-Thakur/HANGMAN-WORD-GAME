@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Project Structure](#project-structure) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Results Gallery](#results-gallery) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [👥 Authors](#authors) &nbsp;·&nbsp; [📖 Overview](#overview) &nbsp;·&nbsp; [✨ Features](#features) &nbsp;·&nbsp; [📁 Structure](#project-structure) &nbsp;·&nbsp; [🚀 Quick Start](#quick-start) &nbsp;·&nbsp; [🖼️ Results](#results-gallery) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [🙏 Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -186,7 +186,7 @@ Developed as part of the 3rd Semester Mini-Project at **Terna Engineering Colleg
 <!-- FOOTER -->
 <div align="center">
 
-  **[Back to Top](#hangman-word-game)** &nbsp;·&nbsp; [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Project Structure](#project-structure) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Results Gallery](#results-gallery) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  **[⬆ Back to Top](#hangman-word-game)** &nbsp;·&nbsp; [👥 Authors](#authors) &nbsp;·&nbsp; [📖 Overview](#overview) &nbsp;·&nbsp; [✨ Features](#features) &nbsp;·&nbsp; [📁 Structure](#project-structure) &nbsp;·&nbsp; [🚀 Quick Start](#quick-start) &nbsp;·&nbsp; [🖼️ Results](#results-gallery) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [🙏 Acknowledgments](#acknowledgments)
 
   <br>
 
@@ -198,12 +198,13 @@ Developed as part of the 3rd Semester Mini-Project at **Terna Engineering Colleg
 
 <div align="center">
 
-  ### Computer Engineering Repository
+  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
   **Computer Engineering (B.E.) - University of Mumbai**
 
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
+
 
 
