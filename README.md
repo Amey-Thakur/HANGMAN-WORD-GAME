@@ -1,11 +1,28 @@
-# HANGMAN-WORD-GAME
-
+<!-- HEADER -->
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat&logo=opensourceinitiative&logoColor=white)
+  <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
 
-A classic graphical Hangman game implemented using Java Applets and AWT/Swing components.
+  # Hangman Word Game (Mini Project)
+
+  ### CSL304 · Semester III · Computer Engineering
+
+  [![License](https://img.shields.io/badge/License-MIT-green?style=flat&logo=opensourceinitiative&logoColor=white)](LICENSE)
+  [![University](https://img.shields.io/badge/University-Mumbai-orange.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-green.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+
+  **A classic graphical Hangman game implemented using Java Applets and AWT/Swing components.**
+
+  ---
+
+  [📖 Overview](#overview) &nbsp;·&nbsp; [👥 Authors](#authors) &nbsp;·&nbsp; [✨ Features](#features) &nbsp;·&nbsp; [📁 Structure](#project-structure) &nbsp;·&nbsp; [🚀 Quick Start](#quick-start) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [🙏 Acknowledgments](#acknowledgments)
+
+</div>
+
+---
+
+<div align="center">
 
 **[Project Presentation](http://dx.doi.org/10.13140/RG.2.2.26806.22082)** • **[Source Code](http://dx.doi.org/10.13140/RG.2.2.20095.33446)** • **[Video Demo](https://youtu.be/JsT9KYKPUgs)**
 
