@@ -2,7 +2,6 @@
 
   # Hangman Word Game
 
-
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
   [![License](https://img.shields.io/badge/License-MIT-green?style=flat&logo=opensourceinitiative&logoColor=white)](LICENSE)
   [![Developed by](https://img.shields.io/badge/Developed%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
@@ -135,7 +134,7 @@ HANGMAN-WORD-GAME/
    ```html
    <applet code="Mega.class" width=1000 height=625></applet>
    ```
-   
+
    Run it:
    ```bash
    appletviewer run.html
@@ -220,6 +219,3 @@ Special thanks to the faculty members of the Department of Computer Engineering 
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
-
-
-
