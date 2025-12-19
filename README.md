@@ -1,17 +1,16 @@
-<!-- HEADER -->
-<div align="center">
+# Hangman Word Game
 
-  # Hangman Word Game
+<div align="center">
 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
   [![License](https://img.shields.io/badge/License-MIT-green?style=flat&logo=opensourceinitiative&logoColor=white)](LICENSE)
   [![Developed by](https://img.shields.io/badge/Developed%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
-  **A classic graphical Hangman game implemented using Java Applets and AWT/Swing components.**
+  An AI-powered web application that transforms photographs into cartoon-style images using deep learning.
 
-  ---
+  **[Project Presentation](http://dx.doi.org/10.13140/RG.2.2.26806.22082)** • **[Source Code](http://dx.doi.org/10.13140/RG.2.2.20095.33446)** • **[Video Demo](https://youtu.be/JsT9KYKPUgs)**
 
-  [📖 Overview](#overview) &nbsp;·&nbsp; [👥 Authors](#authors) &nbsp;·&nbsp; [✨ Features](#features) &nbsp;·&nbsp; [📁 Structure](#project-structure) &nbsp;·&nbsp; [🚀 Quick Start](#quick-start) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [🙏 Acknowledgments](#acknowledgments)
+  [![Demo](https://img.youtube.com/vi/JsT9KYKPUgs/0.jpg)](https://youtu.be/JsT9KYKPUgs)
 
 </div>
 
@@ -19,9 +18,7 @@
 
 <div align="center">
 
-**[Project Presentation](http://dx.doi.org/10.13140/RG.2.2.26806.22082)** • **[Source Code](http://dx.doi.org/10.13140/RG.2.2.20095.33446)** • **[Video Demo](https://youtu.be/JsT9KYKPUgs)**
-
-[![Demo](https://img.youtube.com/vi/JsT9KYKPUgs/0.jpg)](https://youtu.be/JsT9KYKPUgs)
+  [📖 Overview](#overview) &nbsp;·&nbsp; [👥 Authors](#authors) &nbsp;·&nbsp; [✨ Features](#features) &nbsp;·&nbsp; [📁 Structure](#project-structure) &nbsp;·&nbsp; [🚀 Quick Start](#quick-start) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [🙏 Acknowledgments](#acknowledgments)
 
 </div>
 
