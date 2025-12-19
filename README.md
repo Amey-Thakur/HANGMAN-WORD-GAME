@@ -120,7 +120,7 @@ HANGMAN-WORD-GAME/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Amey-Thakur/HANGMAN-WORD-GAME.git
-   cd HANGMAN-WORD-GAME/Source\ Code
+   cd "HANGMAN-WORD-GAME/Source Code"
    ```
 
 2. **Compile the code**
