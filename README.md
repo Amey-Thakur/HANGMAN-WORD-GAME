@@ -148,7 +148,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## Acknowledgments
 
-Developed as part of the 3rd Semester Mini-Project at **Terna Engineering College**.
+Developed as part of the 3rd Semester Mini-Project at **Terna Engineering College** (Batch of 2022).
 
 ---
 
