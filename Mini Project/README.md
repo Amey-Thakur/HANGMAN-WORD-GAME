@@ -9,6 +9,8 @@
   [![Presentation](https://img.shields.io/badge/📊-Presentation-orange.svg)](WordGame.pptx)
   [![Video Demo](https://img.shields.io/badge/🎬-Video%20Demo-blue.svg)](Applet.mp4)
   [![Visual Results](https://img.shields.io/badge/📸-Visual%20Results-green.svg)](Outputs/)
+  [![Status](https://img.shields.io/badge/Status-Completed-green.svg)](./)
+  [![Language](https://img.shields.io/badge/Language-Java%20JDK%208-orange.svg)](../Source%20Code/Mega.java)
 
   **Comprehensive documentation including the technical report, presentation, demonstration video, and all gameplay outcomes.**
 

@@ -2,7 +2,8 @@
 
   # Hangman Word Game
 
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+  ![Java JDK 8](https://img.shields.io/badge/Java-JDK%208-ED8B00?style=flat&logo=java&logoColor=white)
+  ![Status](https://img.shields.io/badge/Status-Completed-green.svg)
   [![License](https://img.shields.io/badge/License-MIT-green?style=flat&logo=opensourceinitiative&logoColor=white)](LICENSE)
   [![Developed by](https://img.shields.io/badge/Developed%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
