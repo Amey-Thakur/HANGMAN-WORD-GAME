@@ -37,32 +37,36 @@ This project implements the classic Hangman word guessing game using Java Applet
 
 ---
 
-## Authors
+<div align="center">
+
+## 👥 Authors
 
 **Terna Engineering College | Computer Engineering | Batch of 2022**
-
-<div align="center">
 
 <table>
 <tr>
 <td align="center">
 <a href="https://github.com/Amey-Thakur">
-<img src="https://github.com/Amey-Thakur.png" width="100px;" alt="Amey Thakur"/><br />
+<img src="https://github.com/Amey-Thakur.png" width="150px;" alt="Amey Thakur"/><br />
 <sub><b>Amey Thakur</b></sub>
 </a>
 </td>
 <td align="center">
 <a href="https://github.com/msatmod">
-<img src="https://raw.githubusercontent.com/Amey-Thakur/HANGMAN-WORD-GAME/main/Mega/Mega.png" width="100px;" alt="Mega Satish"/><br />
+<img src="https://raw.githubusercontent.com/Amey-Thakur/HANGMAN-WORD-GAME/main/Mega/Mega.png" width="150px;" alt="Mega Satish"/><br />
 <sub><b>Mega Satish</b></sub>
 </a>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Amey-Thakur/HANGMAN-WORD-GAME/main/Mega/Saakshi.png" width="100px;" alt="Saakshi Deokar"/><br />
+<a href="https://www.linkedin.com/in/saakshideokar/">
+<img src="https://raw.githubusercontent.com/Amey-Thakur/HANGMAN-WORD-GAME/main/Mega/Saakshi.png" width="150px;" alt="Saakshi Deokar"/><br />
 <sub><b>Saakshi Deokar</b></sub>
+</a>
 </td>
 </tr>
 </table>
+
+*Special thanks to [Mega Satish](https://github.com/msatmod) and [Saakshi Deokar](https://www.linkedin.com/in/saakshideokar/) for their meaningful contributions, guidance, and support that helped shape this work.*
 
 </div>
 
