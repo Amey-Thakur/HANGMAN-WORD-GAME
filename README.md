@@ -3,7 +3,6 @@
 
   # Hangman Word Game
 
-  ### CSL304 · Semester III · Computer Engineering
 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
   [![License](https://img.shields.io/badge/License-MIT-green?style=flat&logo=opensourceinitiative&logoColor=white)](LICENSE)
