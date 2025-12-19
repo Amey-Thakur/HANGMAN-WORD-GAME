@@ -41,6 +41,8 @@ This project implements the classic Hangman word guessing game using Java Applet
 
 **Terna Engineering College | Computer Engineering | Batch of 2022**
 
+<div align="center">
+
 <table>
 <tr>
 <td align="center">
@@ -51,16 +53,19 @@ This project implements the classic Hangman word guessing game using Java Applet
 </td>
 <td align="center">
 <a href="https://github.com/msatmod">
-<img src="https://github.com/msatmod.png" width="100px;" alt="Mega Satish"/><br />
+<img src="https://raw.githubusercontent.com/Amey-Thakur/HANGMAN-WORD-GAME/main/Mega/Mega.png" width="100px;" alt="Mega Satish"/><br />
 <sub><b>Mega Satish</b></sub>
 </a>
 </td>
 <td align="center">
-<img src="https://ui-avatars.com/api/?name=Saakshi+Deokar&background=random&size=100" width="100px;" alt="Saakshi Deokar"/><br />
+<img src="https://raw.githubusercontent.com/Amey-Thakur/HANGMAN-WORD-GAME/main/Mega/Saakshi.png" width="100px;" alt="Saakshi Deokar"/><br />
 <sub><b>Saakshi Deokar</b></sub>
 </td>
 </tr>
 </table>
+
+</div>
+
 
 ---
 
