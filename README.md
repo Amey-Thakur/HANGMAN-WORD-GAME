@@ -253,7 +253,7 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
   <br>
 
-  **[🧪 OOPM Laboratory](https://github.com/Amey-Thakur/OOPM-JAVA-LAB)** &nbsp;·&nbsp; **[🎮 Hangman Word Game (Mini Project)](https://github.com/Amey-Thakur/OOPM-JAVA-LAB/tree/main/OOPM%20Mini%20Project)** &nbsp;·&nbsp; **[🔗 Game Repository](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME)**
+  **[🧪 OOPM Laboratory](https://github.com/Amey-Thakur/OOPM-JAVA-LAB)** &nbsp;·&nbsp; **[🎮 Hangman Word Game (Mini Project)](https://github.com/Amey-Thakur/OOPM-JAVA-LAB/tree/main/OOPM%20Mini%20Project)** &nbsp;·&nbsp; **[📄 Mini Project](Mini%20Project/README.md)** &nbsp;·&nbsp; **[💻 Source Code](Source%20Code/README.md)** &nbsp;·&nbsp; **[🔗 Game Repository](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME)**
 
 </div>
 
