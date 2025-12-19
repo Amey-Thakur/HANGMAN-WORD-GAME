@@ -190,7 +190,7 @@ Developed as part of the 3rd Semester Mini-Project at **Terna Engineering Colleg
 
   <br>
 
-  **[🧪 OOPM Laboratory](https://github.com/Amey-Thakur/OOPM-JAVA-LAB)** &nbsp;·&nbsp; **[🎮 Hangman Word Game (Mini Project)](Mini%20Project/)** &nbsp;·&nbsp; **[🔗 Game Repository](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME)**
+  **[🧪 OOPM Laboratory](https://github.com/Amey-Thakur/OOPM-JAVA-LAB)** &nbsp;·&nbsp; **[🎮 Hangman Word Game (Mini Project)](https://github.com/Amey-Thakur/OOPM-JAVA-LAB/tree/main/OOPM%20Mini%20Project)** &nbsp;·&nbsp; **[🔗 Game Repository](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME)**
 
 </div>
 
