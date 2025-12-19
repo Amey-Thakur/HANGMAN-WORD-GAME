@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  [👥 Authors](#-authors) &nbsp;·&nbsp; [📖 Overview](#-overview) &nbsp;·&nbsp; [✨ Features](#-features) &nbsp;·&nbsp; [📁 Structure](#-project-structure) &nbsp;·&nbsp; [🚀 Quick Start](#-quick-start) &nbsp;·&nbsp; [🖼️ Results](#-results-gallery) &nbsp;·&nbsp; [📜 License](#-license) &nbsp;·&nbsp; [🙏 Acknowledgments](#-acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Project Structure](#project-structure) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Results Gallery](#results-gallery) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -28,7 +28,7 @@
 <!-- AUTHORS -->
 <div align="center">
 
-  ## 👥 Authors
+  ## Authors
 
   **Terna Engineering College | Computer Engineering | Batch of 2022**
 
@@ -62,7 +62,7 @@
 ---
 
 <!-- OVERVIEW -->
-## 📖 Overview
+## Overview
 
 This project implements the classic Hangman word guessing game using Java Applets. It features a graphical user interface built with AWT and Swing components, providing an interactive experience where players guess words to save a stick figure from the gallows.
 
@@ -75,7 +75,7 @@ This project implements the classic Hangman word guessing game using Java Applet
 ---
 
 <!-- FEATURES -->
-## ✨ Features
+## Features
 
 | Feature | Description |
 |---------|-------------|
@@ -88,7 +88,7 @@ This project implements the classic Hangman word guessing game using Java Applet
 ---
 
 <!-- STRUCTURE -->
-## 📁 Project Structure
+## Project Structure
 
 ```
 HANGMAN-WORD-GAME/
@@ -111,7 +111,7 @@ HANGMAN-WORD-GAME/
 ---
 
 <!-- QUICK START -->
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - JDK 8 or higher (with Applet support or AppletViewer)
@@ -144,7 +144,7 @@ HANGMAN-WORD-GAME/
 ---
 
 <!-- RESULTS -->
-## 🖼️ Results Gallery
+## Results Gallery
 
 <div align="center">
 
@@ -168,7 +168,7 @@ HANGMAN-WORD-GAME/
 ---
 
 <!-- LICENSE -->
-## 📜 License
+## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
@@ -177,7 +177,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 <!-- ACKNOWLEDGMENTS -->
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Developed as part of the 3rd Semester Mini-Project at **Terna Engineering College** (Batch of 2022).
 
@@ -186,7 +186,7 @@ Developed as part of the 3rd Semester Mini-Project at **Terna Engineering Colleg
 <!-- FOOTER -->
 <div align="center">
 
-  **[⬆ Back to Top](#hangman-word-game)** &nbsp;·&nbsp; [👥 Authors](#-authors) &nbsp;·&nbsp; [📖 Overview](#-overview) &nbsp;·&nbsp; [✨ Features](#-features) &nbsp;·&nbsp; [📁 Structure](#-project-structure) &nbsp;·&nbsp; [🚀 Quick Start](#-quick-start) &nbsp;·&nbsp; [🖼️ Results](#-results-gallery) &nbsp;·&nbsp; [📜 License](#-license) &nbsp;·&nbsp; [🙏 Acknowledgments](#-acknowledgments)
+  **[Back to Top](#hangman-word-game)** &nbsp;·&nbsp; [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Project Structure](#project-structure) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Results Gallery](#results-gallery) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
@@ -198,11 +198,12 @@ Developed as part of the 3rd Semester Mini-Project at **Terna Engineering Colleg
 
 <div align="center">
 
-  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+  ### Computer Engineering Repository
 
   **Computer Engineering (B.E.) - University of Mumbai**
 
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
+
 
