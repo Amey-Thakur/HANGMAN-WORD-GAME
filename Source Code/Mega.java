@@ -311,3 +311,5 @@ public class Mega extends Applet {
         g.drawLine(375, 400, 380, 460);
     }
 }
+/ /  
+ // touch
