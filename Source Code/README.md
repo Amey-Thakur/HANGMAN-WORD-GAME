@@ -84,7 +84,7 @@
 <!-- FOOTER -->
 <div align="center">
 
-  **[⬆ Back to Top](#hangman-word-game-source-code)** &nbsp;·&nbsp; **[🏠 Project Home](../../README.md)** &nbsp;·&nbsp; **[📄 Documentation](../../Mini%20Project)**
+  **[⬆ Back to Top](#hangman-word-game-source-code)** &nbsp;·&nbsp; **[🏠 Project Home](../../README.md)** &nbsp;·&nbsp; **[📄 Documentation](../Mini%20Project)**
 
   <br>
 
