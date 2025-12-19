@@ -158,9 +158,10 @@ Developed as part of the 3rd Semester Mini-Project at **Terna Engineering Colleg
 
 ---
 
-🎓 **[Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)**
+### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
-**Computer Engineering (B.E.) — University of Mumbai**  
+**Computer Engineering (B.E.) - University of Mumbai**
+
 *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
