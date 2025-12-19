@@ -179,6 +179,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
+Grateful acknowledgment to **[Mega Satish](https://github.com/msatmod)** and **[Saakshi Deokar](https://www.linkedin.com/in/saakshideokar/)** for their collaboration on this mini-project. Their meaningful contributions, guidance, and support were instrumental in shaping this work.
+
 Developed as part of the 3rd Semester Mini-Project at **Terna Engineering College** (Batch of 2022).
 
 ---
