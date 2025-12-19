@@ -16,7 +16,7 @@
 
 ## Project
 
- - **_It is a simple Hangman Word Game using Applet in Java._**
+ - **_A classic graphical Hangman game implemented using Java Applets and AWT/Swing components._**
  
    - **[Project Presentation](http://dx.doi.org/10.13140/RG.2.2.26806.22082)**
   
