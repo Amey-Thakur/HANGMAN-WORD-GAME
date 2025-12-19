@@ -93,18 +93,21 @@ This project implements the classic Hangman word guessing game using Java Applet
 HANGMAN-WORD-GAME/
 │
 ├── Source Code/                  # Java Source Files
-│   └── Mega.java                 # Main Applet Class
+│   └── Mega.java                 # Main Game Logic
 │
 ├── Mini Project/                 # Documentation & Reports
-│   ├── WordGame.pdf              # Project Report
-│   ├── WordGame.pptx             # Presentation
-│   ├── Applet.mp4                # Video Demo
-│   └── Outputs/                  # Screenshots
+│   ├── WordGame.pdf              # Comprehensive Project Report
+│   ├── WordGame.pptx             # Technical Presentation
+│   ├── Applet.mp4                # Gameplay Video Demonstration
+│   └── Outputs/                  # Visual Results (19 Screenshots)
 │
-├── Mega/                         # Game Assets (Images)
+├── Mega/                         # Game & Media Assets
+│   ├── Mega.png                  # Author Profile Image
+│   ├── Saakshi.png                # Author Profile Image
+│   └── (Other Assets...)         # Project-related Media
 │
 ├── LICENSE                       # MIT License
-└── README.md                     # This file
+└── README.md                     # Project Documentation
 ```
 
 ---
@@ -113,31 +116,34 @@ HANGMAN-WORD-GAME/
 ## Quick Start
 
 ### Prerequisites
-- JDK 8 or higher (with Applet support or AppletViewer)
+- **Java Development Kit (JDK 8)** is required for Applet support.
+- **AppletViewer** or a compatible browser plugin.
 
-### Running the Game
+### Installation & Execution
 
-1. **Clone the repository**
+1. **Clone the Repository**
    ```bash
    git clone https://github.com/Amey-Thakur/HANGMAN-WORD-GAME.git
-   cd "HANGMAN-WORD-GAME/Source Code"
+   cd "HANGMAN-WORD-GAME"
    ```
 
-2. **Compile the code**
+2. **Compile the Main Class**
+   Navigate to the source directory and compile:
    ```bash
-   git checkout main
+   cd "Source Code"
    javac Mega.java
    ```
 
-3. **Run using AppletViewer**
-   Create a simple HTML file `run.html`:
+3. **Run the Application**
+   Use `appletviewer` with a simple HTML entry point. Create a file named `index.html` in the same folder:
    ```html
-   <applet code="Mega.class" width=1000 height=625></applet>
+   <!-- index.html -->
+   <applet code="Mega.class" width="1000" height="625"></applet>
    ```
-
-   Run it:
+   
+   Execute using the following command:
    ```bash
-   appletviewer run.html
+   appletviewer index.html
    ```
 
 ---
