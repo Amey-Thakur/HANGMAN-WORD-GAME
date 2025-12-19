@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  [📖 Overview](#overview) &nbsp;·&nbsp; [👥 Authors](#authors) &nbsp;·&nbsp; [✨ Features](#features) &nbsp;·&nbsp; [📁 Structure](#project-structure) &nbsp;·&nbsp; [🚀 Quick Start](#quick-start) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [🙏 Acknowledgments](#acknowledgments)
+  [📖 Overview](#overview) &nbsp;·&nbsp; [👥 Authors](#authors) &nbsp;·&nbsp; [🖼️ Results](#results-gallery) &nbsp;·&nbsp; [✨ Features](#features) &nbsp;·&nbsp; [📁 Structure](#project-structure) &nbsp;·&nbsp; [🚀 Quick Start](#quick-start) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [🙏 Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -70,6 +70,28 @@ This project implements the classic Hangman word guessing game using Java Applet
 
 </div>
 
+---
+
+## Results Gallery
+
+<div align="center">
+
+### Welcome Screen
+![Welcome Screen](Mini%20Project/Outputs/Welcome_Message.png)
+
+### Player Input
+![Player Input](Mini%20Project/Outputs/Player_Name_Input.png)
+
+### Game Interface
+![Game Interface](Mini%20Project/Outputs/Game_Screen.png)
+
+### Victory
+![Victory](Mini%20Project/Outputs/Win.png)
+
+### Game Over
+![Game Over](Mini%20Project/Outputs/Lose.png)
+
+</div>
 
 ---
 
