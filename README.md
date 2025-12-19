@@ -1,13 +1,14 @@
 <div align="center">
 
-  # Hangman Word Game
+  <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
 
+  # Hangman Word Game
 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
   [![License](https://img.shields.io/badge/License-MIT-green?style=flat&logo=opensourceinitiative&logoColor=white)](LICENSE)
   [![Developed by](https://img.shields.io/badge/Developed%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
-  A classic graphical Hangman game implemented using Java Applets and AWT/Swing components.
+  **A classic graphical Hangman game implemented using Java Applets and AWT/Swing components.**
 
   **[Project Presentation](http://dx.doi.org/10.13140/RG.2.2.26806.22082)** • **[Source Code](http://dx.doi.org/10.13140/RG.2.2.20095.33446)** • **[Video Demo](https://youtu.be/JsT9KYKPUgs)**
 
@@ -32,28 +33,11 @@
 
   **Terna Engineering College | Computer Engineering | Batch of 2022**
 
-  <table>
-  <tr>
-  <td align="center">
-  <a href="https://github.com/Amey-Thakur">
-  <img src="https://github.com/Amey-Thakur.png" width="150px;" alt="Amey Thakur"/><br />
-  <sub><b>Amey Thakur</b></sub>
-  </a>
-  </td>
-  <td align="center">
-  <a href="https://github.com/msatmod">
-  <img src="https://raw.githubusercontent.com/Amey-Thakur/HANGMAN-WORD-GAME/main/Mega/Mega.png" width="150px;" alt="Mega Satish"/><br />
-  <sub><b>Mega Satish</b></sub>
-  </a>
-  </td>
-  <td align="center">
-  <a href="https://www.linkedin.com/in/saakshideokar/">
-  <img src="https://raw.githubusercontent.com/Amey-Thakur/HANGMAN-WORD-GAME/main/Mega/Saakshi.png" width="150px;" alt="Saakshi Deokar"/><br />
-  <sub><b>Saakshi Deokar</b></sub>
-  </a>
-  </td>
-  </tr>
-  </table>
+  | <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"> | <img src="https://raw.githubusercontent.com/Amey-Thakur/HANGMAN-WORD-GAME/main/Mega/Mega.png" width="150" alt="Mega Satish"> | <img src="https://raw.githubusercontent.com/Amey-Thakur/HANGMAN-WORD-GAME/main/Mega/Saakshi.png" width="150" alt="Saakshi Deokar"> |
+  | :---: | :---: | :---: |
+  | [**Amey Thakur**](https://github.com/Amey-Thakur) | [**Mega Satish**](https://github.com/msatmod) | [**Saakshi Deokar**](https://www.linkedin.com/in/saakshideokar/) |
+
+  <br>
 
   *Special thanks to [Mega Satish](https://github.com/msatmod) and [Saakshi Deokar](https://www.linkedin.com/in/saakshideokar/) for their meaningful contributions, guidance, and support that helped shape this work.*
 
@@ -64,13 +48,13 @@
 <!-- OVERVIEW -->
 ## Overview
 
-This project implements the classic Hangman word guessing game using Java Applets. It features a graphical user interface built with AWT and Swing components, providing an interactive experience where players guess words to save a stick figure from the gallows.
+The **Hangman Word Game** is a Java-based application developed to demonstrate object-oriented programming methodologies. It provides an interactive experience where players guess programming-related words to save a stick figure from the gallows.
 
 **Key Components:**
-- Java Applet & AWT/Swing for GUI
-- Event handling for keyboard and mouse interactions
-- Custom drawing and animation for the hangman figure
-- Object-Oriented Design
+- 🖼️ **GUI**: Java Applet & AWT/Swing components
+- 🖱️ **Interaction**: Event handling for keyboard and mouse
+- 🎨 **Graphics**: Custom drawing for game status visualization
+- 🏗️ **Architecture**: Object-Oriented Design principles
 
 ---
 
@@ -78,12 +62,12 @@ This project implements the classic Hangman word guessing game using Java Applet
 ## Features
 
 | Feature | Description |
-|---------|-------------|
-| **Graphical Interface** | Visual representation of gallows and hangman |
-| **Word Database** | Predefined list of programming languages to guess |
-| **Interactive Controls** | Mouse support for logic and keyboard for guessing |
-| **Win/Loss States** | Clear visual feedback for game outcomes |
-| **Animations** | Simple animation for the "hanging" sequence |
+|:---|:---|
+| 🖥️ **Graphical Interface** | Interactive visual representation of the game state |
+| 📚 **Word Database** | Dynamic word selection from a curated word bank |
+| ⌨️ **Responsive Input** | Seamless keyboard support for character guessing |
+| 🏆 **State Logic** | Comprehensive win/loss evaluation and feedback |
+| 🎭 **Dynamic Rendering** | Smooth visual updates for the "hanging" progression |
 
 ---
 
@@ -116,30 +100,29 @@ HANGMAN-WORD-GAME/
 ### Prerequisites
 - JDK 8 or higher (with Applet support or AppletViewer)
 
-### Running the Game
+### Execution Steps
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Amey-Thakur/HANGMAN-WORD-GAME.git
-   cd HANGMAN-WORD-GAME/Source\ Code
-   ```
+1.  **Clone the Repository**
+    ```bash
+    git clone https://github.com/Amey-Thakur/HANGMAN-WORD-GAME.git
+    cd HANGMAN-WORD-GAME/Source\ Code
+    ```
 
-2. **Compile the code**
-   ```bash
-   git checkout main
-   javac Mega.java
-   ```
+2.  **Compile & Run**
+    ```bash
+    git checkout main
+    javac Mega.java
+    ```
 
-3. **Run using AppletViewer**
-   Create a simple HTML file `run.html`:
-   ```html
-   <applet code="Mega.class" width=1000 height=625></applet>
-   ```
-   
-   Run it:
-   ```bash
-   appletviewer run.html
-   ```
+3.  **Launch via AppletViewer**
+    Create `run.html`:
+    ```html
+    <applet code="Mega.class" width=1000 height=625></applet>
+    ```
+    Execute:
+    ```bash
+    appletviewer run.html
+    ```
 
 ---
 
@@ -213,13 +196,16 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
 <div align="center">
 
-  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+  <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
 
-  **Computer Engineering (B.E.) - University of Mumbai**
+  ### [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+
+  **Bachelor of Engineering (B.E.) · University of Mumbai**
 
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
+
 
 
 
