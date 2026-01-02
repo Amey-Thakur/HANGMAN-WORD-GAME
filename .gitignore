@@ -1,0 +1,45 @@
+# Hangman Word Game - Academic Repository
+# Specialized .gitignore for Java development and scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor and IDE configuration
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
+*.code-workspace
+
+# Java Build Artifacts
+*.class
+*.jar
+*.war
+*.ear
+build/
+bin/
+target/
+
+# Documentation and Temporary Files
+*.bak
+*.sav
+*.old
+*.orig
+~$*.doc
+~$*.docx
+~$*.ppt
+~$*.pptx
+*.tmp
+*.log
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z

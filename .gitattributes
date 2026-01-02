@@ -1,0 +1,27 @@
+# Hangman Word Game - Academic Repository
+# Professional .gitattributes for scholarly archiving
+
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Ensure text and source files use LF on checkout
+*.md text eol=lf
+*.java text eol=lf diff=java
+*.txt text eol=lf
+LICENSE text eol=lf
+
+# Explicitly mark binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.ico binary
+*.bmp binary
+*.tif binary
+*.tiff binary
+*.mp4 binary
+*.pptx binary
+
+# Improve diff handling
+*.md text diff=markdown
