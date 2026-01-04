@@ -256,7 +256,7 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
   <br>
 
-  🔬 **[OOPM Laboratory](https://github.com/Amey-Thakur/OOPM-JAVA-LAB)** &nbsp;·&nbsp; 🎮 **[Game Repository](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME)**
+  🔬 **[OOPM Laboratory](https://github.com/Amey-Thakur/OOPM-JAVA-LAB)** &nbsp;·&nbsp; 🎮 **[HANGMAN-WORD-GAME](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME)**
 
   ---
 
