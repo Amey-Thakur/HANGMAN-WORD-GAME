@@ -98,11 +98,10 @@ HANGMAN-WORD-GAME/
 │
 ├── Mega/                            # Game & Media Assets
 │   ├── Mega.png                     # Author Profile Image
-│   ├── Saakshi.png                  # Author Profile Image
 │   └── (Other Assets...)            # Project-related Media
 │
 ├── LICENSE                          # MIT License
-│   └── README.md                    # Project Documentation
+└── README.md                        # Project Documentation
 ```
 
 ---
