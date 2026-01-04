@@ -2,7 +2,7 @@
 
   # Hangman Word Game
 
-  [![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat&logo=opensourceinitiative&logoColor=white)](LICENSE)
+  [![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
   ![Java JDK 8](https://img.shields.io/badge/Java-JDK%208-orange?style=flat&logo=java&logoColor=white)
   ![Status](https://img.shields.io/badge/Status-Completed-success)
   [![Developed by Amey Thakur and Mega Satish](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Mega%20Satish-blue.svg)](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME)
