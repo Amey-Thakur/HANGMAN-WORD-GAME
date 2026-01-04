@@ -42,4 +42,4 @@ The program employs an asynchronous event-handling model using `java.awt.event`:
 - **Character Mapping**: A boolean array `knownChars` tracks the discovery status of each character index in the target string, allowing for partial word masking.
 
 ---
-*Technical Specification | Computer Engineering Archival Project | Version 1.0*
+*Technical Specification | Computer Engineering Project | Version 1.0*
