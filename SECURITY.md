@@ -1,7 +1,7 @@
 # Security Policy
 
 ## Archival Status
-This repository is part of a curated Computer Engineering project archive and is currently in a finalized, stable state. Continued development or active maintenance of this project has concluded; however, preserving the security and scholarly integrity of the archive remains a priority.
+This repository is part of a curated Computer Engineering project archive and is currently in a finalized, stable state. Continued development or active maintenance of this project has concluded; this record is preserved as a fixed historical artifact.
 
 ## Supported Versions
 As an archival artifact, only the following version is authoritative:
@@ -30,8 +30,8 @@ This project utilizes Java Applet technology and the AWT/Swing framework. Users 
 - **Execution Environment**: It is highly recommended to execute this artifact only within a controlled, isolated environment, such as a dedicated laboratory sandbox or via the `appletviewer` utility provided by JDK 8.
 - **Scope**: This policy is limited to the source code and academic materials contained herein and does not extend to the underlying Java Runtime Environment (JRE).
 
-## Commitment to Archival Integrity
-The curators are committed to maintaining the integrity of this academic record. All security-related inquiries will be addressed with the necessary technical rigor.
+## Preservation of Archival Integrity
+The repository is no longer subject to active monitoring or subsequent security updates. Security inquiries submitted via the formal protocol will be historically logged as part of the archival record.
 
 ---
 *This document serves as the formal security standard for the Computer Engineering Archival Project.*
