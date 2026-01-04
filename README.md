@@ -100,7 +100,12 @@ HANGMAN-WORD-GAME/
 │   ├── Mega.png                     # Author Profile Image
 │   └── (Other Assets...)            # Project-related Media
 │
+├── docs/                            # Archival Documentation
+│   └── SPECIFICATION.md             # Formal Technical Specification
+│
 ├── LICENSE                          # MIT License
+├── CITATION.cff                     # Citation Metadata
+├── codemeta.json                    # Archival Metadata (JSON-LD)
 └── README.md                        # Project Documentation
 ```
 
