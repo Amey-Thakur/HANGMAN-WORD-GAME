@@ -7,7 +7,39 @@ authors:
 - family-names: "Satish"
   given-names: "Mega"
   orcid: "https://orcid.org/0000-0002-1844-9557"
-title: "HANGMAN-WORD-GAME"
+title: "HANGMAN-WORD-GAME: A Graphical Java Case Study in Object-Oriented Methodology"
 version: 1.0.0
 date-released: 2020-01-17
 url: "https://github.com/Amey-Thakur/HANGMAN-WORD-GAME"
+identifiers:
+  - type: doi
+    value: 10.13140/RG.2.2.26806.22082
+    description: "Project Presentation DOI"
+  - type: doi
+    value: 10.13140/RG.2.2.20095.33446
+    description: "Source Code & Technical Documentation DOI"
+repository-code: "https://github.com/Amey-Thakur/HANGMAN-WORD-GAME"
+keywords:
+  - "Object-Oriented Programming"
+  - "Java Applet"
+  - "Academic Archive"
+  - "Hangman Game"
+  - "Software Engineering Education"
+abstract: >-
+  This repository contains a classic graphical Hangman game implemented using Java Applet technology. 
+  It serves as a curated archival artifact for Computer Engineering education, specifically focusing 
+  on Object-Oriented Programming Methodology (OOPM).
+contact:
+  - name: "Amey Thakur"
+    email: "ameythakur20@gmail.com"
+    website: "https://github.com/Amey-Thakur"
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "Thakur"
+      given-names: "Amey"
+    - family-names: "Satish"
+      given-names: "Mega"
+  title: "HANGMAN-WORD-GAME"
+  year: 2020
+  publisher: "Computer Engineering Archival Project"
