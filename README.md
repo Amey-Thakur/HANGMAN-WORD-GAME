@@ -9,7 +9,7 @@
 
   A classic graphical Hangman game implemented using Java Applets and AWT/Swing components.
 
-  **[Project Presentation](http://dx.doi.org/10.13140/RG.2.2.26806.22082)** &nbsp;&middot;&nbsp; **[Source Code](http://dx.doi.org/10.13140/RG.2.2.20095.33446)** &nbsp;&middot;&nbsp; **[Video Demo](https://youtu.be/JsT9KYKPUgs)**
+  **[Project Presentation](http://dx.doi.org/10.13140/RG.2.2.26806.22082)** &nbsp;&middot;&nbsp; **[Source Code](http://dx.doi.org/10.13140/RG.2.2.20095.33446)** &nbsp;&middot;&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;&middot;&nbsp; **[Video Demo](https://youtu.be/JsT9KYKPUgs)**
 
   [![Demo](https://img.youtube.com/vi/JsT9KYKPUgs/0.jpg)](https://youtu.be/JsT9KYKPUgs)
 
