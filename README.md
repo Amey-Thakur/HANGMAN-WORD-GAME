@@ -239,20 +239,20 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
 ---
 
-<!-- FOOTER -->
+<!-- =========================================================================================
+                                     FOOTER SECTION
+     ========================================================================================= -->
 <div align="center">
 
-  **[Back to Top](#hangman-word-game)** &nbsp;·&nbsp; [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Results](#results-gallery) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [↑ Back to Top](#hangman-word-game)
+
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Results](#results-gallery) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
-  **[OOPM Laboratory](https://github.com/Amey-Thakur/OOPM-JAVA-LAB)** &nbsp;·&nbsp; **[Hangman Word Game (Mini Project)](https://github.com/Amey-Thakur/OOPM-JAVA-LAB/tree/main/OOPM%20Mini%20Project)** &nbsp;·&nbsp; **[Mini Project](Mini%20Project/README.md)** &nbsp;·&nbsp; **[Source Code](Source%20Code/README.md)** &nbsp;·&nbsp; **[Game Repository](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME)**
+  🔬 **[OOPM Laboratory](https://github.com/Amey-Thakur/OOPM-JAVA-LAB)** &nbsp;·&nbsp; 🎮 **[Game Repository](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME)**
 
-</div>
-
----
-
-<div align="center">
+  ---
 
   ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
