@@ -24,4 +24,4 @@ The repository incorporates modern archival standards, including:
 The project remains open for educational and research purposes under the **MIT License**. Users are encouraged to utilize this repository as a benchmark for pedagogical software engineering archives.
 
 ---
-*Archival Governance Statement | Computer Engineering Archival Project | 2026-01-04*
+*Archival Governance Statement | Computer Engineering Project | 2020-01-17*
