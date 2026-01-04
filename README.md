@@ -221,7 +221,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
 
-**Copyright © 2019** [Amey Thakur](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod)
+**Copyright &copy; 2019** [Amey Thakur](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod)
 
 ---
 
