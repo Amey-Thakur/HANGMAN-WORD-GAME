@@ -3,6 +3,19 @@
 ## Architectural Overview
 The **HANGMAN-WORD-GAME** is implemented as a monolithic Java Applet leveraging the **Abstract Window Toolkit (AWT)** and **Swing** components for graphical rendering and event handling. The implementation adheres to a structured state-based model to manage the game lifecycle.
 
+### Architectural Flow
+
+```mermaid
+graph TD
+    A["User Input (Mouse/Keyboard)"] -->|Event Captured| B["Event Handling Layer"]
+    B -->|Update State| C["Game Logic Engine"]
+    C -->|Trigger| D["Rendering Pipeline (paint)"]
+    D -->|Graphics Methods| E["Stick Figure & Gallows"]
+    D -->|Font Metrics| F["Word Mask & HUD"]
+    C -.->|State Analysis| G{"Terminal State Check"}
+    G -->|Win/Loss| D
+```
+
 ## 1. Program Structure
 The primary executable is defined in `Mega.java`, which inherits from `java.applet.Applet`. The architecture follows a singleton pattern where the main class manages state, logic, and rendering.
 
