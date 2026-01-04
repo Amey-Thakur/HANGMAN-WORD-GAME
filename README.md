@@ -49,7 +49,7 @@
   </tr>
   </table>
 
-  *Special thanks to [Mega Satish](https://github.com/msatmod) for their meaningful contributions, guidance, and support that helped shape this work.*
+  *Special thanks to [Mega Satish](https://github.com/msatmod) for her meaningful contributions, guidance, and support that helped shape this work.*
 
 </div>
 
@@ -234,7 +234,7 @@ This repository features the Hangman Word Game, a graphical Java application dev
 
 ### Acknowledgments
 
-Grateful acknowledgment to **[Mega Satish](https://github.com/msatmod)** for their collaboration on this mini-project. Their meaningful contributions, guidance, and support were instrumental in shaping this work.
+Grateful acknowledgment to **[Mega Satish](https://github.com/msatmod)** for her collaboration on this mini-project. Their meaningful contributions, guidance, and support were instrumental in shaping this work.
 
 Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance during the course of this project. Gratitude is also extended to the mentors and peers who supported this learning endeavor.
 
