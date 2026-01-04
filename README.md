@@ -100,13 +100,13 @@ HANGMAN-WORD-GAME/
 │   ├── Mega.png                     # Author Profile Image
 │   └── (Other Assets...)            # Project-related Media
 │
-├── docs/                            # Archival Documentation
+├── docs/                            # Project Documentation
 │   └── SPECIFICATION.md             # Formal Technical Specification
 │
 ├── LICENSE                          # MIT License
 ├── CITATION.cff                     # Citation Metadata
 ├── SECURITY.md                      # Security Policy & Posture
-├── codemeta.json                    # Archival Metadata (JSON-LD)
+├── codemeta.json                    # Project Metadata (JSON-LD)
 └── README.md                        # Project Documentation
 ```
 
@@ -239,7 +239,7 @@ This project features the Hangman Word Game, a graphical Java application develo
 
 ### Acknowledgments
 
-Grateful acknowledgment to **[Mega Satish](https://github.com/msatmod)** for her pivotal role and collaborative excellence during the development of this project. Her intellectual contributions, technical insights, and dedicated commitment to software quality were fundamental in achieving the project's analytical and functional objectives. This archival record serves as a testament to her scholarly partnership and significant impact on the final implementation.
+Grateful acknowledgment to **[Mega Satish](https://github.com/msatmod)** for her pivotal role and collaborative excellence during the development of this project. Her intellectual contributions, technical insights, and dedicated commitment to software quality were fundamental in achieving the project's analytical and functional objectives. This technical record serves as a testament to her scholarly partnership and significant impact on the final implementation.
 
 Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance during the course of this project. Gratitude is also extended to the mentors and peers who supported this learning endeavor.
 

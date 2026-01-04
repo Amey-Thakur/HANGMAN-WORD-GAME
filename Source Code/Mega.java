@@ -3,14 +3,14 @@
  * @project HANGMAN-WORD-GAME
  * @brief A classic graphical Hangman game implemented using Java Applets and AWT/Swing.
  * 
- * This repository is part of a curated Computer Engineering project archive.
+ * This repository is part of a curated Computer Engineering project collection.
  * It selects a hidden word from a curated list of programming languages, and 
  * the user must guess characters to save the "stick man" from being hanged.
  * 
  * @author Amey Thakur (https://github.com/Amey-Thakur)
  * @author Mega Satish (https://github.com/msatmod)
  * @date Released: 2020-01-17
- * @version 1.0.0 (Archival Grade)
+ * @version 1.0.0 (Standard Grade)
  * @repository https://github.com/Amey-Thakur/HANGMAN-WORD-GAME
  * 
  * Academic Context:
@@ -167,7 +167,7 @@ public class Mega extends Applet {
                 g.drawString("You Lose!", 600, 200);
             }
             
-            // Archival requirement: Reveal the full answer upon termination
+            // Implementation requirement: Reveal the full answer upon termination
             g.setColor(Color.black);
             for(int i = 0; i < hiddenWord.length(); i++) {
                 int xPos = i * 30 + 225;
