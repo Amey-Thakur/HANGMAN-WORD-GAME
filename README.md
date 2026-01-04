@@ -260,7 +260,7 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
   ---
 
-  ### Presented as part of the 3rd Semester Mini-Project @ Terna Engineering College.
+  ### Presented as part of the 3rd Semester Mini-Project @ Terna Engineering College
 
   ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
