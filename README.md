@@ -233,7 +233,7 @@ This repository features the Hangman Word Game, a graphical Java application dev
 
 ### Acknowledgments
 
-Grateful acknowledgment to **[Mega Satish](https://github.com/msatmod)** for her collaboration on this mini-project. Their meaningful contributions, guidance, and support were instrumental in shaping this work.
+Formal recognition and sincere gratitude are extended to **[Mega Satish](https://github.com/msatmod)** for her pivotal role and collaborative excellence during the development of this repository. Her intellectual contributions, technical insights, and dedicated commitment to software quality were fundamental in achieving the project's analytical and functional objectives. This archival record serves as a testament to her scholarly partnership and significant impact on the final implementation.
 
 Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance during the course of this project. Gratitude is also extended to the mentors and peers who supported this learning endeavor.
 
