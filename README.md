@@ -105,6 +105,7 @@ HANGMAN-WORD-GAME/
 │
 ├── LICENSE                          # MIT License
 ├── CITATION.cff                     # Citation Metadata
+├── SECURITY.md                      # Security Policy & Posture
 ├── codemeta.json                    # Archival Metadata (JSON-LD)
 └── README.md                        # Project Documentation
 ```
