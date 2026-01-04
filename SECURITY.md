@@ -32,4 +32,4 @@ This artifact utilizes Java Applet technology and the AWT/Swing framework, which
 The repository is no longer subject to active monitoring or subsequent security updates. Security inquiries submitted via the formal protocol will be formally logged as part of the archival record.
 
 ---
-*This document serves as the formal security standard for the Computer Engineering Archival Project.*
+*This document defines the security posture of an archived Computer Engineering project.*
