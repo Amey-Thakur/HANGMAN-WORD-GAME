@@ -46,16 +46,10 @@
   <sub><b>Mega Satish</b></sub>
   </a>
   </td>
-  <td align="center">
-  <a href="https://www.linkedin.com/in/saakshideokar/">
-  <img src="https://raw.githubusercontent.com/Amey-Thakur/HANGMAN-WORD-GAME/main/Mega/Saakshi.png" width="150px;" alt="Saakshi Deokar"/><br />
-  <sub><b>Saakshi Deokar</b></sub>
-  </a>
-  </td>
   </tr>
   </table>
 
-  *Special thanks to [Saakshi Deokar](https://www.linkedin.com/in/saakshideokar/) for her meaningful contribution, guidance, and support that helped shape this work.*
+  *Special thanks to [Mega Satish](https://github.com/msatmod) for their meaningful contributions, guidance, and support that helped shape this work.*
 
 </div>
 
@@ -222,7 +216,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
 
-**Copyright © 2019** [Amey Thakur](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod), Saakshi Deokar
+**Copyright © 2019** [Amey Thakur](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod)
 
 ---
 
@@ -240,7 +234,7 @@ This repository features the Hangman Word Game, a graphical Java application dev
 
 ### Acknowledgments
 
-Grateful acknowledgment to **[Mega Satish](https://github.com/msatmod)** and **[Saakshi Deokar](https://www.linkedin.com/in/saakshideokar/)** for their collaboration on this mini-project. Their meaningful contributions, guidance, and support were instrumental in shaping this work.
+Grateful acknowledgment to **[Mega Satish](https://github.com/msatmod)** for their collaboration on this mini-project. Their meaningful contributions, guidance, and support were instrumental in shaping this work.
 
 Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance during the course of this project. Gratitude is also extended to the mentors and peers who supported this learning endeavor.
 
