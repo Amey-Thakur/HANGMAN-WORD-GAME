@@ -1,14 +1,21 @@
-/**
- * Project: Hangman Word Game (Mini Project)
- * Course: Object-Oriented Programming Methodology (OOPM)
- * Description: A classic graphical Hangman game implemented using Java Applets and AWT/Swing components.
- *              The game selects a hidden word from a curated list, and the user must guess
- *              characters to save the "stick man" from being hanged.
+﻿/**
+ * @file Mega.java
+ * @project HANGMAN-WORD-GAME
+ * @brief A classic graphical Hangman game implemented using Java Applets and AWT/Swing.
  * 
- * Authors: Amey Thakur, Mega Satish, Saakshi Deokar
- * Batch: 2022
+ * This repository is part of a curated Computer Engineering project archive.
+ * It selects a hidden word from a curated list of programming languages, and 
+ * the user must guess characters to save the "stick man" from being hanged.
+ * 
+ * @author Amey Thakur (https://github.com/Amey-Thakur)
+ * @author Mega Satish (https://github.com/msatmod)
+ * @date Released: 2020-01-17
+ * @version 1.0.0 (Archival Grade)
+ * @repository https://github.com/Amey-Thakur/HANGMAN-WORD-GAME
+ * 
+ * Academic Context:
+ * Course: Object-Oriented Programming Methodology (OOPM)
  * Institution: Terna Engineering College
- * Repository: https://github.com/Amey-Thakur/HANGMAN-WORD-GAME
  */
 
 import java.awt.*; 
@@ -16,45 +23,54 @@ import java.applet.*;
 import javax.swing.*;
 
 /**
- * Main Applet class for the Hangman Word Game.
- * Handles game logic, event processing, and graphical rendering.
+ * @class Mega
+ * @brief Main Applet class for the Hangman Word Game.
+ * 
+ * Handles core game logic, user input through keyboard and mouse events, 
+ * and handles the graphical rendering of the game state including the gallows animation.
  */
 public class Mega extends Applet {
 
-    // --- Game State Variables ---
-    private String hiddenWord = "";  // The target word to be guessed
-    private String guessWord;        // Full word guess input by the user
-    private String guessList;        // List of all characters guessed by the player
-    private int missCount;           // Number of incorrect guesses
-    private int maxMisses;           // Maximum allowed misses before game over (7)
-    private boolean win;             // Flag indicating if the player has won
-    private boolean gameOver;        // Flag indicating if the game has ended
-    private boolean mouseOver = true;// Flag for 'New Game' button hover state
-    private boolean hanged;          // Flag to trigger the final hanging animation
-    private boolean[] knownChars;    // Tracks revealed characters in the hidden word
+    /** @name Game State Variables */
+    ///@{
+    private String hiddenWord = "";  // The target word selected for the current round
+    private String guessWord;        // String to store a full-word guess attempt
+    private String guessList;        // String accumulating all characters guessed by the user
+    private int missCount;           // Counter for incorrect character guesses
+    private int maxMisses;           // Maximum allowed misses (standard is 7)
+    private boolean win;             // Flag indicating game victory
+    private boolean gameOver;        // Flag indicating game completion
+    private boolean mouseOver = true;// Tracks hover state over the 'New Word' UI button
+    private boolean hanged;          // Triggers final game-over animation sequence
+    private boolean[] knownChars;    // Array mapping identified characters in the hidden word
+    ///@}
 
-    // --- Design Constants ---
-    private final Color bgColor = new Color(0x00dddddd); // Standard light grey background
+    /** @name Design Constants */
+    ///@{
+    private final Color bgColor = new Color(0x00dddddd); // Standard light grey palette
+    ///@}
 
     /**
-     * Initializes the Applet, sets dimensions, and displays welcome messages.
+     * @brief Initializes the Applet environment.
+     * Sets standard dimensions, backgrounds, and triggers initial welcome dialogs.
      */
     @Override
     public void init() {
         setSize(1000, 625);
         setBackground(bgColor);
 
-        // Display Welcome and Credit Dialogs
-        JOptionPane.showMessageDialog(this, "\n \t \t \t Welcome to WORDGAME \n \n - Developed by Amey, Mega, Saakshi");
+        // Standardized Welcome and Credit Dialogs
+        JOptionPane.showMessageDialog(this, "\n \t \t \t Welcome to WORDGAME \n \n - Developed by Amey and Mega");
         JOptionPane.showMessageDialog(this, "\t Guess the letters to SAVE a MAN \n \n  Hit the spacebar to guess the word");
-        JOptionPane.showMessageDialog(this, "\t \n Hint: PROGRAMMING LANGUAGES \n \n \t Lets Play. Have fun!!!");	
+        JOptionPane.showMessageDialog(this, "\t \n Hint: PROGRAMMING LANGUAGES \n \n \t Let's Play. Have fun!!!");	
         JOptionPane.showInputDialog("Player name");
         
         newGame();
     }
 
     /**
-     * Resets the game state for a new round with a fresh word selection.
+     * @brief Resets the internal game state for a new round.
+     * Selects a new word and resets all counters and flags.
      */
     public void newGame() {
         hiddenWord = getHiddenWord();
@@ -75,12 +91,12 @@ public class Mega extends Applet {
     }
     
     /**
-     * Renders all graphical components of the game.
-     * Includes UI buttons, the gallows, the stick figure, and game status text.
+     * @brief Renders the visual representation of the game.
+     * Draws the UI buttons, the gallows structure, the stick figure, and the word bank.
      */
     @Override
     public void paint(Graphics g) {
-        // --- 1. Draw "New Word" Button ---
+        // --- 1. Draw "New Word" Navigation Button ---
         g.setColor(mouseOver ? Color.white : new Color(0x00eeeeee));
         g.fillRect(50, 60, 100, 30);
         
@@ -91,67 +107,67 @@ public class Mega extends Applet {
         g.setFont(new Font("Helvetica", Font.BOLD, 16));
         g.drawString("new word", 64, 80);
 
-        // --- 2. Draw Gallows ---
+        // --- 2. Render Gallows Architecture ---
         g.setFont(new Font("Helvetica", Font.BOLD, 32));
-        g.drawLine(50, 550, 375, 550);   // Base beam
-        g.drawLine(150, 550, 150, 150);  // Vertical pole
-        g.drawLine(150, 150, 375, 150);  // Horizontal top bar
-        g.drawLine(375, 150, 375, 199);  // Noose rope
+        g.drawLine(50, 550, 375, 550);   // Horizontal base base
+        g.drawLine(150, 550, 150, 150);  // Vertical main support
+        g.drawLine(150, 150, 375, 150);  // Horizontal top beam
+        g.drawLine(375, 150, 375, 199);  // Hanging rope
 
-        // --- 3. Draw Word Blanks and Revealed Characters ---
+        // --- 3. Word Rendering System ---
         for (int i = 0; i < hiddenWord.length(); i++) {
             int xPos = i * 30 + 225;
-            // Draw underline for non-space characters
+            // Render underlines for active characters
             if (hiddenWord.charAt(i) != ' ') {
                 g.drawLine(xPos, 100, xPos + 15, 100);
             }
-            // Draw character if discovered
+            // Display character if successfully discovered
             if (knownChars[i]) {
                 g.drawString(String.valueOf(hiddenWord.charAt(i)), xPos - 1, 95);
             }
         }
 
-        // --- 4. Draw Stick Figure (Progression based on misses) ---
+        // --- 4. Dynamic Stick Figure Progression (Additive rendering) ---
         switch (missCount) {
             case 7: 
                 animateHang(g); 
                 break;
             case 6: 
-                g.drawLine(375, 270, 300, 280); // Left Arm
+                g.drawLine(375, 270, 300, 280); // Left Arm segment
             case 5: 
-                g.drawLine(375, 270, 450, 280); // Right Arm
+                g.drawLine(375, 270, 450, 280); // Right Arm segment
             case 4: 
-                g.drawLine(375, 400, 325, 450); // Left Leg
+                g.drawLine(375, 400, 325, 450); // Left Leg segment
             case 3: 
-                g.drawLine(375, 400, 425, 450); // Right Leg
+                g.drawLine(375, 400, 425, 450); // Right Leg segment
             case 2: 
-                g.drawLine(375, 250, 375, 400); // Main Body
+                g.drawLine(375, 250, 375, 400); // Spinal support / Thorax
             case 1: 
-                g.drawOval(349, 199, 51, 51);   // Head Outline
-                g.setColor(new Color(0x00ffcc99)); // Skin Tone
-                g.fillOval(350, 200, 50, 50);   // Head Fill
+                g.drawOval(349, 199, 51, 51);   // Head perimeter
+                g.setColor(new Color(0x00ffcc99)); // Skin-tone fill
+                g.fillOval(350, 200, 50, 50);   // Head volume
                 break;
         }
         
-        // --- 5. Render Guessed Letters List ---
+        // --- 5. Display Guess History ---
         g.setColor(Color.black);
         g.setFont(new Font("Helvetica", Font.BOLD, 32));
         for(int i = 0; i < guessList.length(); i++) {
             g.drawString(String.valueOf(guessList.charAt(i)), 50 + i * 28, 40);
         }
 
-        // --- 6. Handle Game Outcomes (Victory/Loss) ---
+        // --- 6. Endgame Condition Rendering ---
         if (win || missCount == maxMisses) {
             gameOver = true;
             if (win) {
-                g.setColor(new Color(0x00009900)); // Success Green
+                g.setColor(new Color(0x00009900)); // Success green
                 g.drawString("You Win!", 600, 200);
             } else {
-                g.setColor(Color.red); // Error Red
+                g.setColor(Color.red); // Error red
                 g.drawString("You Lose!", 600, 200);
             }
             
-            // Reveal full word on completion
+            // Archival requirement: Reveal the full answer upon termination
             g.setColor(Color.black);
             for(int i = 0; i < hiddenWord.length(); i++) {
                 int xPos = i * 30 + 225;
@@ -159,15 +175,15 @@ public class Mega extends Applet {
             }
         }
 
-        // --- 7. Status HUD ---
+        // --- 7. Status Information (Heads-Up Display) ---
         g.setColor(Color.black);
         g.setFont(new Font("Helvetica", Font.BOLD, 16));
         g.drawString("Misses: " + missCount, 155, 168);
     }
     
     /**
-     * Selects a random programming language from the word bank.
-     * @return The selected word in lowercase.
+     * @brief Word Bank Selection logic.
+     * @return A lowercase String selecting a programming language.
      */
     private String getHiddenWord() {
         String[] wordList = {
@@ -182,28 +198,30 @@ public class Mega extends Applet {
     }
     
     /**
-     * Validates a full word guess against the hidden target.
-     * @param guess The player's input string.
-     * @return true if matches, false otherwise.
+     * @brief Validates a full word guess against the secret.
+     * @param guess The raw input string from the user.
+     * @return true if case-insensitive match is found.
      */
     private boolean validateGuess(String guess) {
         return guess != null && guess.equalsIgnoreCase(hiddenWord);
     }
     
     /**
-     * Triggers an input dialog for the user to attempt a full word guess.
+     * @brief Modal dialog for full-word guess attempts.
      */
     public void guessTheWord() {
         guessWord = JOptionPane.showInputDialog(null, "Guess the word to SAVE LIFE:");
         if (validateGuess(guessWord)) {
             win = true;
         } else if (guessWord != null) {
-            missCount = maxMisses; // Immediate loss for wrong word guess
+            missCount = maxMisses; // High-stakes: incorrect word guess results in instant loss
         }
     }
 
     /**
-     * Captures keyboard input for character guessing or triggering word guess.
+     * @brief Legacy input handling for character/action detection.
+     * @param e Event object.
+     * @param k Key code.
      */
     @Override
     public boolean keyDown(Event e, int k) {
@@ -211,9 +229,9 @@ public class Mega extends Applet {
             char keyChar = (char) k;
             
             if (keyChar == ' ') {
-                guessTheWord(); // Spacebar triggers word guess
+                guessTheWord(); // Spacebar triggers full-word guess attempt
             } else {
-                // Check for duplicate guesses
+                // Ignore redundant character guesses
                 if (guessList.indexOf(keyChar) != -1 || guessList.indexOf(Character.toLowerCase(keyChar)) != -1) {
                     return true;
                 }
@@ -221,7 +239,7 @@ public class Mega extends Applet {
                 guessList += keyChar;
                 boolean rightGuess = false;
                 
-                // Check Hidden Word
+                // Scan the target word for matching characters
                 for(int i = 0; i < hiddenWord.length(); i++) {
                     if (Character.toLowerCase(keyChar) == hiddenWord.charAt(i)) {
                         rightGuess = true;
@@ -231,7 +249,7 @@ public class Mega extends Applet {
                 
                 if (!rightGuess) missCount++;
                 
-                // Check if all characters are discovered
+                // Check if all necessary characters have been uncovered
                 win = true;
                 for(boolean known : knownChars) {
                     if (!known) {
@@ -246,7 +264,7 @@ public class Mega extends Applet {
     }
         
     /**
-     * Handles mouse clicks, specifically for the "New Word" button.
+     * @brief Mouse event dispatcher for interaction with UI elements.
      */
     @Override
     public boolean mouseDown(Event evt, int x, int y) {
@@ -258,7 +276,7 @@ public class Mega extends Applet {
     }
     
     /**
-     * Tracks mouse movements for UI hover effects.
+     * @brief Real-time coordinate tracking for hovering effects.
      */
     @Override
     public boolean mouseMove(Event evt, int x, int y) {
@@ -272,14 +290,17 @@ public class Mega extends Applet {
     }
         
     /**
-     * Performs the final "Hanging" sequence with a color-shifting animation.
-     * Uses a busy-wait loop to achieve a smooth color fade on the stick figure's face.
+     * @brief Executes the final "Hanging" animation sequence.
+     * Performs graphical transformations and a color-fading loop to simulate the outcome.
+     * Uses a blocking loop to ensure sequential rendering in the applet context.
+     * @param g The Graphics context for the component.
      */
     private void animateHang(Graphics g) {
         hanged = true;
     
         g.setColor(Color.black);
     
+        // Construct final posture
         g.drawLine(375, 270, 335, 280);
         g.drawLine(375, 270, 415, 280);
         g.drawLine(335, 280, 375, 250);
@@ -291,14 +312,14 @@ public class Mega extends Applet {
         g.drawLine(375, 250, 375, 400);
         g.drawOval(349, 199, 51, 51);
         
-        // Color transition loop: Head turning from natural to blue
+        // Color transition logic: Simulated cyanosis / face color shifting
         for (int i = 0; i < 220000; i++) {
             int c = Math.min(i / 1000, 255);
             g.setColor(new Color(255 - c, 0, c));
             g.fillOval(350, 200, 50, 50);
         }
         
-        // Cleanup and final visual states
+        // Render final cleanup and limb positions
         g.setColor(bgColor);
         g.drawLine(335, 280, 375, 250);
         g.drawLine(415, 280, 375, 250);
@@ -311,5 +332,3 @@ public class Mega extends Applet {
         g.drawLine(375, 400, 380, 460);
     }
 }
-/ /  
- // touch
