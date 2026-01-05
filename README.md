@@ -251,7 +251,7 @@ This repository is openly shared to support learning and knowledge exchange acro
 Use this mini-project as a reference for understanding Java Applets, AWT/Swing GUI development, and object-oriented game logic. The source code is documented to facilitate self-paced learning and exploration of graphical programming concepts.
 
 **For Educators**  
-This project may serve as a practical example for teaching Java fundamentals, event handling, or as a reference for academic mini-project documentation. Attribution is appreciated when utilizing content.
+This project may serve as a practical example or supplementary teaching resource for Object-Oriented Programming Methodology courses (`CSL304`). Attribution is appreciated when utilizing content.
 
 **For Researchers**  
 The documentation and organization provide insights into academic project curation and educational software structuring.
