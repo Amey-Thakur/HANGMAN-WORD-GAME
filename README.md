@@ -87,27 +87,53 @@ This project implements the classic Hangman word guessing game using Java Applet
 ```
 HANGMAN-WORD-GAME/
 │
-├── Source Code/                     # Java Source Files
-│   └── Mega.java                    # Main Game Logic
+├── docs/                                    # Formal Documentation
+│   └── SPECIFICATION.md                     # Technical Architecture & Spec
 │
-├── Mini Project/                    # Documentation & Reports
-│   ├── WordGame.pdf                 # Comprehensive Project Report
-│   ├── WordGame.pptx                # Technical Presentation
-│   ├── Applet.mp4                   # Gameplay Video Demonstration
-│   └── Outputs/                     # Visual Results (19 Screenshots)
+├── Mega/                                    # Game & Media Assets
+│   ├── Filly.jpg                            # Project-related Image
+│   ├── Mega.png                             # Author Profile Image
+│   ├── Mega_and_Hetvi.png                   # Collaborative Photo
+│   ├── Mega_Chair.png                       # Author Photo (Chair)
+│   ├── Mega_Dining.jpg                      # Author Photo (Dining)
+│   └── Mega_Professional.jpg                # Author Professional Photo
 │
-├── Mega/                            # Game & Media Assets
-│   ├── Mega.png                     # Author Profile Image
-│   └── (Other Assets...)            # Project-related Media
+├── Mini Project/                            # Documentation & Reports
+│   ├── Outputs/                             # Visual Results (Screenshots)
+│   │   ├── Game_Screen.png                  # Main Game Interface
+│   │   ├── Hint_Message.png                 # Hint Dialog Screenshot
+│   │   ├── Input_Answer.png                 # Answer Input Dialog
+│   │   ├── Input_Win.png                    # Win Input Screenshot
+│   │   ├── Input_Window.png                 # Input Window Screenshot
+│   │   ├── Instructions_Message.png         # Game Instructions Dialog
+│   │   ├── Lose.png                         # Game Over (Loss) Screen
+│   │   ├── Missed_1.png                     # Hangman Stage 1
+│   │   ├── Missed_2.png                     # Hangman Stage 2
+│   │   ├── Missed_3.png                     # Hangman Stage 3
+│   │   ├── Missed_4.png                     # Hangman Stage 4
+│   │   ├── Missed_5.png                     # Hangman Stage 5
+│   │   ├── Missed_6.png                     # Hangman Stage 6
+│   │   ├── Missed_7.1.png                   # Hangman Stage 7 (Frame 1)
+│   │   ├── Missed_7.2.png                   # Hangman Stage 7 (Frame 2)
+│   │   ├── Missed_7.3.png                   # Hangman Stage 7 (Frame 3)
+│   │   ├── Player_Name_Input.png            # Player Name Entry Dialog
+│   │   ├── Welcome_Message.png              # Welcome Screen
+│   │   └── Win.png                          # Victory Screen
+│   ├── Applet.mp4                           # Gameplay Video Demonstration
+│   ├── README.md                            # Mini Project Documentation
+│   ├── WordGame.pdf                         # Comprehensive Project Report
+│   └── WordGame.pptx                        # Technical Presentation
 │
-├── docs/                            # Project Documentation
-│   └── SPECIFICATION.md             # Formal Technical Specification
+├── Source Code/                             # Java Source Files
+│   └── Mega.java                            # Main Game Logic (Applet)
 │
-├── LICENSE                          # MIT License
-├── CITATION.cff                     # Citation Metadata
-├── SECURITY.md                      # Security Policy & Posture
-├── codemeta.json                    # Project Metadata (JSON-LD)
-└── README.md                        # Project Documentation
+├── .gitattributes                           # Git Line Ending Configuration
+├── .gitignore                               # Git Ignore Rules
+├── CITATION.cff                             # Citation Metadata
+├── codemeta.json                            # Project Metadata (JSON-LD)
+├── LICENSE                                  # MIT License
+├── README.md                                # Project Documentation
+└── SECURITY.md                              # Security Policy & Posture
 ```
 
 ---
