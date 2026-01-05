@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Results](#results-gallery) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Results](#results-gallery) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -240,6 +240,24 @@ HANGMAN-WORD-GAME/
 
 ---
 
+<!-- =========================================================================================
+                                     USAGE SECTION
+     ========================================================================================= -->
+## Usage Guidelines
+
+This repository is openly shared to support learning and knowledge exchange across the academic community.
+
+**For Students**  
+Use this mini-project as a reference for understanding Java Applets, AWT/Swing GUI development, and object-oriented game logic. The source code is documented to facilitate self-paced learning and exploration of graphical programming concepts.
+
+**For Educators**  
+This project may serve as a practical example for teaching Java fundamentals, event handling, or as a reference for academic mini-project documentation. Attribution is appreciated when utilizing content.
+
+**For Researchers**  
+The documentation and organization provide insights into academic project curation and educational software structuring.
+
+---
+
 <!-- LICENSE -->
 ## License
 
@@ -279,7 +297,7 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
   [↑ Back to Top](#hangman-word-game)
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Results](#results-gallery) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Results](#results-gallery) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
