@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-  # Hangman Word Game (Mini Project Documentation)
+  # Hangman Word Game (Mini-Project Documentation)
 
   ### Object-Oriented Programming Methodology (OOPM) · Semester III
 
