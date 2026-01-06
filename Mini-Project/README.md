@@ -44,8 +44,8 @@ The project highlights the technical application of:
 
 | File | Description |
 | :--- | :--- |
-| [**WordGame.pdf**](WordGame.pdf) | **Technical Project Report**: Detailed architectural analysis, design schematics, source code implementation, and validated outcomes. |
-| [**WordGame.pptx**](WordGame.pptx) | **Technical Presentation**: Scholarly slide deck detailing project methodology, core features, and implementation highlights. |
+| [WordGame.pdf](WordGame.pdf) | **Technical Project Report**: Detailed architectural analysis, design schematics, source code implementation, and validated outcomes. |
+| [WordGame.pptx](WordGame.pptx) | **Technical Presentation**: Scholarly slide deck detailing project methodology, core features, and implementation highlights. |
 
 ---
 
@@ -54,7 +54,7 @@ The project highlights the technical application of:
 
 The software execution and gameplay flow are documented in a high-fidelity video demonstration, covering the lifecycle from initialization to final state termination.
 
-- **Primary Video Record**: [**Applet.mp4**](Applet.mp4)
+- **Primary Video Record**: [Applet.mp4](Applet.mp4)
 - **External Reference**: [Technical Demonstration](https://youtu.be/JsT9KYKPUgs)
 
 ---
@@ -62,7 +62,7 @@ The software execution and gameplay flow are documented in a high-fidelity video
 <!-- VISUAL RESULTS -->
 ## Visual Results
 
-The [**Outputs/**](Outputs/) directory serves as a comprehensive record of game states, containing 19 unique captures documented during validation phases.
+The [Outputs/](Outputs/) directory serves as a comprehensive record of game states, containing 19 unique captures documented during validation phases.
 
 ### Technical Record Highlights:
 - **Initialization Sequence**: Welcome interface, operational instructions, lexical hint dialogs, and player registration.
@@ -71,7 +71,7 @@ The [**Outputs/**](Outputs/) directory serves as a comprehensive record of game 
 - **Terminal States**: Academic record of success (Win) and failure (Loss) outcomes.
 
 > [!NOTE]
-> Detailed visual previews of these records are available in the main [**Results Gallery**](../../README.md#results-gallery).
+> Detailed visual previews of these records are available in the main [Results Gallery](../README.md#results-gallery).
 
 ---
 
@@ -80,11 +80,11 @@ The [**Outputs/**](Outputs/) directory serves as a comprehensive record of game 
 
   [↑ Back to Top](#hangman-word-game-mini-project-documentation)
 
-  🏠 **[Project Home](../README.md)** &nbsp;·&nbsp; 💻 **[Source Code](../Source%20Code)**
+  🏠 [Project Home](../README.md) &nbsp;·&nbsp; 💻 [Source Code](../Source%20Code)
 
   <br>
 
-  🎮 **[Hangman Word Game Repository](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME)**
+  🎮 [Hangman Word Game Repository](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME)
 
 </div>
 
