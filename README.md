@@ -69,7 +69,7 @@ This project implements the classic Hangman word guessing game using Java Applet
 > [!TIP]
 > **Word List Expansion**
 >
-> The game's vocabulary is defined within the `getHiddenWord()` method in `Mega.java`. Researchers or students can easily extend the word bank by appending new entries to the `wordList` array, allowing for custom themes or increased vocabulary depth.
+> The game's vocabulary is defined within the `getHiddenWord()` method in `Mega.java`. The word bank can be extended by appending new entries to the `wordList` array, allowing for custom themes or increased vocabulary depth.
 
 ---
 
