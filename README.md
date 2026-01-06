@@ -1,6 +1,5 @@
 <div align="center">
 
-
   # Hangman Word Game
 
   [![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
