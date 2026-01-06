@@ -21,14 +21,14 @@
 <!-- NAVIGATION -->
 <div align="center">
 
-  **[📖 Overview](#-overview)** &nbsp;·&nbsp; **[📄 Documentation](#-documentation)** &nbsp;·&nbsp; **[🎬 Demonstration](#-demonstration)** &nbsp;·&nbsp; **[📸 Visual Results](#-visual-results)** &nbsp;·&nbsp; **[🏠 Home](../README.md)**
+  [Overview](#overview) &nbsp;·&nbsp; [Documentation](#documentation) &nbsp;·&nbsp; [Demonstration](#demonstration) &nbsp;·&nbsp; [Visual Results](#visual-results) &nbsp;·&nbsp; [Project Home](../README.md)
 
 </div>
 
 ---
 
 <!-- OVERVIEW -->
-## 📖 Overview
+## Overview
 
 This directory contains the formal documentation and media assets for the **Hangman Word Game**, developed as a 3rd-semester mini-project for the Object-Oriented Programming Methodology (OOPM) course. 
 
@@ -40,7 +40,7 @@ The project highlights the technical application of:
 ---
 
 <!-- DOCUMENTATION -->
-## 📄 Documentation
+## Documentation
 
 | File | Description |
 | :--- | :--- |
@@ -50,7 +50,7 @@ The project highlights the technical application of:
 ---
 
 <!-- DEMONSTRATION -->
-## 🎬 Demonstration
+## Demonstration
 
 The software execution and gameplay flow are documented in a high-fidelity video demonstration, covering the lifecycle from initialization to final state termination.
 
@@ -60,7 +60,7 @@ The software execution and gameplay flow are documented in a high-fidelity video
 ---
 
 <!-- VISUAL RESULTS -->
-## 📸 Visual Results
+## Visual Results
 
 The [**Outputs/**](Outputs/) directory serves as a comprehensive record of game states, containing 19 unique captures documented during validation phases.
 
@@ -78,7 +78,9 @@ The [**Outputs/**](Outputs/) directory serves as a comprehensive record of game 
 <!-- FOOTER -->
 <div align="center">
 
-  **[⬆ Back to Top](#hangman-word-game-mini-project-documentation)** &nbsp;·&nbsp; **[🏠 Project Home](../README.md)** &nbsp;·&nbsp; **[💻 Source Code](../Source%20Code)**
+  [↑ Back to Top](#hangman-word-game-mini-project-documentation)
+
+  🏠 **[Project Home](../README.md)** &nbsp;·&nbsp; 💻 **[Source Code](../Source%20Code)**
 
   <br>
 
