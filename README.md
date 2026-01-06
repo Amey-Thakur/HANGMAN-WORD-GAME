@@ -66,6 +66,11 @@ This project implements the classic Hangman word guessing game using Java Applet
 - Custom drawing and animation for the hangman figure
 - Object-Oriented Design
 
+> [!TIP]
+> **Word List Expansion**
+>
+> The game's vocabulary is defined within the `getHiddenWord()` method in `Mega.java`. Researchers or students can easily extend the word bank by appending new entries to the `wordList` array, allowing for custom themes or increased vocabulary depth.
+
 ---
 
 <!-- FEATURES -->
@@ -84,7 +89,7 @@ This project implements the classic Hangman word guessing game using Java Applet
 <!-- STRUCTURE -->
 ## Project Structure
 
-```
+```bash
 HANGMAN-WORD-GAME/
 │
 ├── docs/                                    # Formal Documentation
@@ -98,7 +103,7 @@ HANGMAN-WORD-GAME/
 │   ├── Mega_Dining.jpg                      # Author Photo (Dining)
 │   └── Mega_Professional.jpg                # Author Professional Photo
 │
-├── Mini Project/                            # Documentation & Reports
+├── Mini-Project/                            # Documentation & Reports
 │   ├── Outputs/                             # Visual Results (Screenshots)
 │   │   ├── Game_Screen.png                  # Main Game Interface
 │   │   ├── Hint_Message.png                 # Hint Dialog Screenshot
@@ -145,6 +150,11 @@ HANGMAN-WORD-GAME/
 - **Java Development Kit (JDK 8)** is required for Applet support.
 - **AppletViewer** or a compatible browser plugin.
 
+> [!WARNING]
+> **Legacy Technology Implementation**
+>
+> As Java Applets are deprecated in modern browser environments, this project is primarily intended to be executed via the `appletviewer` utility included in the JDK. Attempts to run this in modern browsers (Chrome, Firefox, etc.) will fail without specialized legacy plugins.
+
 ### Installation & Execution
 
 1. **Clone the Repository**
@@ -180,61 +190,61 @@ HANGMAN-WORD-GAME/
 <div align="center">
 
   ### Welcome Message
-  ![Welcome Message](Mini%20Project/Outputs/Welcome_Message.png)
+  ![Welcome Message](Mini-Project/Outputs/Welcome_Message.png)
 
   ### Instructions Message
-  ![Instructions Message](Mini%20Project/Outputs/Instructions_Message.png)
+  ![Instructions Message](Mini-Project/Outputs/Instructions_Message.png)
 
   ### Hint Message
-  ![Hint Message](Mini%20Project/Outputs/Hint_Message.png)
+  ![Hint Message](Mini-Project/Outputs/Hint_Message.png)
 
   ### Player Name Input
-  ![Player Name Input](Mini%20Project/Outputs/Player_Name_Input.png)
+  ![Player Name Input](Mini-Project/Outputs/Player_Name_Input.png)
 
   ### Game Screen
-  ![Game Screen](Mini%20Project/Outputs/Game_Screen.png)
+  ![Game Screen](Mini-Project/Outputs/Game_Screen.png)
 
   ### Input Window
-  ![Input Window](Mini%20Project/Outputs/Input_Window.png)
+  ![Input Window](Mini-Project/Outputs/Input_Window.png)
 
   ### Input Answer
-  ![Input Answer](Mini%20Project/Outputs/Input_Answer.png)
+  ![Input Answer](Mini-Project/Outputs/Input_Answer.png)
 
   ### Missed 1
-  ![Missed 1](Mini%20Project/Outputs/Missed_1.png)
+  ![Missed 1](Mini-Project/Outputs/Missed_1.png)
 
   ### Missed 2
-  ![Missed 2](Mini%20Project/Outputs/Missed_2.png)
+  ![Missed 2](Mini-Project/Outputs/Missed_2.png)
 
   ### Missed 3
-  ![Missed 3](Mini%20Project/Outputs/Missed_3.png)
+  ![Missed 3](Mini-Project/Outputs/Missed_3.png)
 
   ### Missed 4
-  ![Missed 4](Mini%20Project/Outputs/Missed_4.png)
+  ![Missed 4](Mini-Project/Outputs/Missed_4.png)
 
   ### Missed 5
-  ![Missed 5](Mini%20Project/Outputs/Missed_5.png)
+  ![Missed 5](Mini-Project/Outputs/Missed_5.png)
 
   ### Missed 6
-  ![Missed 6](Mini%20Project/Outputs/Missed_6.png)
+  ![Missed 6](Mini-Project/Outputs/Missed_6.png)
 
   ### Hanging Animation - Phase 1
-  ![Missed 7.1](Mini%20Project/Outputs/Missed_7.1.png)
+  ![Missed 7.1](Mini-Project/Outputs/Missed_7.1.png)
 
   ### Hanging Animation - Phase 2
-  ![Missed 7.2](Mini%20Project/Outputs/Missed_7.2.png)
+  ![Missed 7.2](Mini-Project/Outputs/Missed_7.2.png)
 
   ### Hanging Animation - Phase 3
-  ![Missed 7.3](Mini%20Project/Outputs/Missed_7.3.png)
+  ![Missed 7.3](Mini-Project/Outputs/Missed_7.3.png)
 
   ### Win (Game Screen)
-  ![Win](Mini%20Project/Outputs/Win.png)
+  ![Win](Mini-Project/Outputs/Win.png)
 
   ### Win (Input Window)
-  ![Input Win](Mini%20Project/Outputs/Input_Win.png)
+  ![Input Win](Mini-Project/Outputs/Input_Win.png)
 
   ### Lose
-  ![Lose](Mini%20Project/Outputs/Lose.png)
+  ![Lose](Mini-Project/Outputs/Lose.png)
 
 </div>
 
@@ -290,14 +300,12 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
 ---
 
-<!-- =========================================================================================
-                                     FOOTER SECTION
-     ========================================================================================= -->
+<!-- FOOTER SECTION -->
 <div align="center">
 
   [↑ Back to Top](#hangman-word-game)
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Results](#results-gallery) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
