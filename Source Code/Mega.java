@@ -109,7 +109,7 @@ public class Mega extends Applet {
 
         // --- 2. Render Gallows Architecture ---
         g.setFont(new Font("Helvetica", Font.BOLD, 32));
-        g.drawLine(50, 550, 375, 550);   // Horizontal base base
+        g.drawLine(50, 550, 375, 550);   // Horizontal base
         g.drawLine(150, 550, 150, 150);  // Vertical main support
         g.drawLine(150, 150, 375, 150);  // Horizontal top beam
         g.drawLine(375, 150, 375, 199);  // Hanging rope
