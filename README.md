@@ -38,7 +38,7 @@
   <a href="https://github.com/Amey-Thakur">
   <img src="https://github.com/Amey-Thakur.png" width="150px;" alt="Amey Thakur"/><br />
   <sub><b>Amey Thakur</b></sub>
-  </a><br />
+  </a><br /><br />
   <a href="https://orcid.org/0000-0001-5644-1575">
   <img src="https://img.shields.io/badge/ORCID-0000--0001--5644--1575-brightgreen" alt="ORCID"/>
   </a>
@@ -47,7 +47,7 @@
   <a href="https://github.com/msatmod">
   <img src="https://raw.githubusercontent.com/Amey-Thakur/HANGMAN-WORD-GAME/main/Mega/Mega.png" width="150px;" alt="Mega Satish"/><br />
   <sub><b>Mega Satish</b></sub>
-  </a><br />
+  </a><br /><br />
   <a href="https://orcid.org/0000-0002-1844-9557">
   <img src="https://img.shields.io/badge/ORCID-0000--0002--1844--9557-brightgreen" alt="ORCID"/>
   </a>
