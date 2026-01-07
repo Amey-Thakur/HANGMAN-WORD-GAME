@@ -36,7 +36,7 @@
   <tr>
   <td align="center">
   <a href="https://github.com/Amey-Thakur">
-  <img src="https://github.com/Amey-Thakur.png" width="150px;" alt="Amey Thakur"/><br />
+  <img src="https://github.com/Amey-Thakur.png" width="250px;" alt="Amey Thakur"/><br />
   <sub><b>Amey Thakur</b></sub>
   </a><br /><br />
   <a href="https://orcid.org/0000-0001-5644-1575">
@@ -45,7 +45,7 @@
   </td>
   <td align="center">
   <a href="https://github.com/msatmod">
-  <img src="https://raw.githubusercontent.com/Amey-Thakur/HANGMAN-WORD-GAME/main/Mega/Mega.png" width="150px;" alt="Mega Satish"/><br />
+  <img src="https://raw.githubusercontent.com/Amey-Thakur/HANGMAN-WORD-GAME/main/Mega/Mega.png" width="250px;" alt="Mega Satish"/><br />
   <sub><b>Mega Satish</b></sub>
   </a><br /><br />
   <a href="https://orcid.org/0000-0002-1844-9557">
