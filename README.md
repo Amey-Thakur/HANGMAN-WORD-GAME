@@ -38,12 +38,18 @@
   <a href="https://github.com/Amey-Thakur">
   <img src="https://github.com/Amey-Thakur.png" width="150px;" alt="Amey Thakur"/><br />
   <sub><b>Amey Thakur</b></sub>
+  </a><br />
+  <a href="https://orcid.org/0000-0001-5644-1575">
+  <img src="https://img.shields.io/badge/ORCID-0000--0001--5644--1575-brightgreen" alt="ORCID"/>
   </a>
   </td>
   <td align="center">
   <a href="https://github.com/msatmod">
   <img src="https://raw.githubusercontent.com/Amey-Thakur/HANGMAN-WORD-GAME/main/Mega/Mega.png" width="150px;" alt="Mega Satish"/><br />
   <sub><b>Mega Satish</b></sub>
+  </a><br />
+  <a href="https://orcid.org/0000-0002-1844-9557">
+  <img src="https://img.shields.io/badge/ORCID-0000--0002--1844--9557-brightgreen" alt="ORCID"/>
   </a>
   </td>
   </tr>
@@ -290,7 +296,7 @@ Copyright © 2020 Amey Thakur, Mega Satish
 
 This project features the Hangman Word Game, a graphical Java application developed as a 3rd-semester mini-project for the Object-Oriented Programming Methodology (OOPM) course. It showcases the practical application of core Java concepts, graphics programming, and user-centric design.
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur) · [ORCID](https://orcid.org/0000-0001-5644-1575)
 
 ### Acknowledgments
 
