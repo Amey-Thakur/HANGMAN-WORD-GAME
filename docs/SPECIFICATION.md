@@ -1,7 +1,7 @@
-# Technical Specification: HANGMAN-WORD-GAME
+# Technical Specification: Hangman Word Game
 
 ## Architectural Overview
-The **HANGMAN-WORD-GAME** is implemented as a monolithic Java Applet leveraging the **Abstract Window Toolkit (AWT)** and **Swing** components for graphical rendering and event handling. The implementation adheres to a structured state-based model to manage the game lifecycle.
+The **Hangman Word Game** is implemented as a monolithic Java Applet leveraging the **Abstract Window Toolkit (AWT)** and **Swing** components for graphical rendering and event handling. The implementation adheres to a structured state-based model to manage the game lifecycle.
 
 ### Architectural Flow
 
