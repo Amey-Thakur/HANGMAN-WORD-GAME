@@ -153,61 +153,61 @@ HANGMAN-WORD-GAME/
 <div align="center">
 
   ### Welcome Message
-  ![Welcome Message](Mini-Project/Outputs/Welcome_Message.png)
+  <img src="Mini-Project/Outputs/Welcome_Message.png" width="80%" alt="Welcome Message">
 
   ### Instructions Message
-  ![Instructions Message](Mini-Project/Outputs/Instructions_Message.png)
+  <img src="Mini-Project/Outputs/Instructions_Message.png" width="80%" alt="Instructions Message">
 
   ### Hint Message
-  ![Hint Message](Mini-Project/Outputs/Hint_Message.png)
+  <img src="Mini-Project/Outputs/Hint_Message.png" width="80%" alt="Hint Message">
 
   ### Player Name Input
-  ![Player Name Input](Mini-Project/Outputs/Player_Name_Input.png)
+  <img src="Mini-Project/Outputs/Player_Name_Input.png" width="80%" alt="Player Name Input">
 
   ### Game Screen
-  ![Game Screen](Mini-Project/Outputs/Game_Screen.png)
+  <img src="Mini-Project/Outputs/Game_Screen.png" width="80%" alt="Game Screen">
 
   ### Input Window
-  ![Input Window](Mini-Project/Outputs/Input_Window.png)
+  <img src="Mini-Project/Outputs/Input_Window.png" width="80%" alt="Input Window">
 
   ### Input Answer
-  ![Input Answer](Mini-Project/Outputs/Input_Answer.png)
+  <img src="Mini-Project/Outputs/Input_Answer.png" width="80%" alt="Input Answer">
 
   ### Missed 1
-  ![Missed 1](Mini-Project/Outputs/Missed_1.png)
+  <img src="Mini-Project/Outputs/Missed_1.png" width="80%" alt="Missed 1">
 
   ### Missed 2
-  ![Missed 2](Mini-Project/Outputs/Missed_2.png)
+  <img src="Mini-Project/Outputs/Missed_2.png" width="80%" alt="Missed 2">
 
   ### Missed 3
-  ![Missed 3](Mini-Project/Outputs/Missed_3.png)
+  <img src="Mini-Project/Outputs/Missed_3.png" width="80%" alt="Missed 3">
 
   ### Missed 4
-  ![Missed 4](Mini-Project/Outputs/Missed_4.png)
+  <img src="Mini-Project/Outputs/Missed_4.png" width="80%" alt="Missed 4">
 
   ### Missed 5
-  ![Missed 5](Mini-Project/Outputs/Missed_5.png)
+  <img src="Mini-Project/Outputs/Missed_5.png" width="80%" alt="Missed 5">
 
   ### Missed 6
-  ![Missed 6](Mini-Project/Outputs/Missed_6.png)
+  <img src="Mini-Project/Outputs/Missed_6.png" width="80%" alt="Missed 6">
 
   ### Hanging Animation - Phase 1
-  ![Missed 7.1](Mini-Project/Outputs/Missed_7.1.png)
+  <img src="Mini-Project/Outputs/Missed_7.1.png" width="80%" alt="Missed 7.1">
 
   ### Hanging Animation - Phase 2
-  ![Missed 7.2](Mini-Project/Outputs/Missed_7.2.png)
+  <img src="Mini-Project/Outputs/Missed_7.2.png" width="80%" alt="Missed 7.2">
 
   ### Hanging Animation - Phase 3
-  ![Missed 7.3](Mini-Project/Outputs/Missed_7.3.png)
+  <img src="Mini-Project/Outputs/Missed_7.3.png" width="80%" alt="Missed 7.3">
 
   ### Win (Game Screen)
-  ![Win](Mini-Project/Outputs/Win.png)
+  <img src="Mini-Project/Outputs/Win.png" width="80%" alt="Win">
 
   ### Win (Input Window)
-  ![Input Win](Mini-Project/Outputs/Input_Win.png)
+  <img src="Mini-Project/Outputs/Input_Win.png" width="80%" alt="Input Win">
 
   ### Lose
-  ![Lose](Mini-Project/Outputs/Lose.png)
+  <img src="Mini-Project/Outputs/Lose.png" width="80%" alt="Lose">
 
 </div>
 
