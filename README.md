@@ -280,6 +280,8 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   #### Presented as part of the 3rd Semester Mini-Project @ Terna Engineering College
 
+  ---
+
   ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
   **Computer Engineering (B.E.) - University of Mumbai**
