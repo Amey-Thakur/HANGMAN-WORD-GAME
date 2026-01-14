@@ -59,9 +59,10 @@ A classic Hangman Word Game developed as a mini-project for the Object-Oriented 
 | # | Resource | Description |
 |---|---|---|
 | 1 | [Presentation](http://dx.doi.org/10.13140/RG.2.2.26806.22082) | Research paper presentation and visuals |
-| 2 | [Source Code](http://dx.doi.org/10.13140/RG.2.2.20095.33446) | Original source code publication |
-| 3 | [Game Repository](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) | Standalone repository for the game |
-| 4 | [OOPM Laboratory](https://github.com/Amey-Thakur/OOPM-JAVA-LAB) | Academic repository for Java OOPM |
+| 2 | [Technical Specification](docs/SPECIFICATION.md) | Technical architecture and logic specification |
+| 3 | [Source Code](http://dx.doi.org/10.13140/RG.2.2.20095.33446) | Original source code publication |
+| 4 | [Game Repository](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) | Standalone repository for the game |
+| 5 | [OOPM Laboratory](https://github.com/Amey-Thakur/OOPM-JAVA-LAB) | Academic repository for Java OOPM |
 
 ---
 
