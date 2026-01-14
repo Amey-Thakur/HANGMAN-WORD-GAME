@@ -94,6 +94,7 @@ HANGMAN-WORD-GAME/
 │   └── WordGame.pptx                        # Technical Presentation
 │
 ├── Mega/                                    # Archival Attribution Assets
+│   ├── Filly.jpg                            # Companion (Filly)
 │   └── Mega.png                             # Author Profile Image (Mega Satish)
 │
 ├── Source Code/                             # Core Implementation
