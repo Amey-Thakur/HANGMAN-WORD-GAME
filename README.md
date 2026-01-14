@@ -82,11 +82,11 @@ A classic Hangman Word Game developed as a mini-project for the Object-Oriented 
 <!-- STRUCTURE -->
 ## Project Structure
 
-```bash
+```python
 HANGMAN-WORD-GAME/
 │
 ├── docs/                                    # Formal Documentation
-│   └── SPECIFICATION.md                     # Technical Architecture & Spec
+│   └── SPECIFICATION.md                     # Technical Architecture & Specification
 │
 ├── Mini-Project/                            # Academic Documentation & Results
 │   ├── README.md                            # Mini-Project Overview
