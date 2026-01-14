@@ -93,6 +93,9 @@ HANGMAN-WORD-GAME/
 │   ├── WordGame.pdf                         # Technical Project Report
 │   └── WordGame.pptx                        # Technical Presentation
 │
+├── Mega/                                    # Archival Attribution Assets
+│   └── Mega.png                             # Author Profile Image (Mega Satish)
+│
 ├── Source Code/                             # Core Implementation
 │   └── Mega.java                            # Main Game Logic (Applet)
 │
