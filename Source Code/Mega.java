@@ -189,7 +189,7 @@ public class Mega extends Applet {
         String[] wordList = {
             "Java", "C language", "C++", "Python", "JavaScript", 
             "SQL", "Ruby", "Swift", "MATLAB", "Smalltalk", 
-            "Lua", "Pearl", "Pascal", "PHP", "Fortran"
+            "Lua", "Perl", "Pascal", "PHP", "Fortran"
         };
     
         int index = (int)(Math.random() * wordList.length);
