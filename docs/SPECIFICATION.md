@@ -40,10 +40,10 @@ The graphical implementation utilizes a custom drawing algorithm within the `pai
 
 ### The Gallows & Stick Figure Algorithm:
 The visual complexity of the "Hanging" sequence is directly proportional to the `missCount` variable. Drawing commands are executed sequentially based on the error count:
-1. **missCount 1**: Base and vertical beam.
-2. **missCount 2**: Horizontal beam and support.
-3. **missCount 3-6**: Incremental drawing of the Rope and Head.
-4. **Final State**: Full character body and terminal animation.
+1. **missCount 1**: Head rendering.
+2. **missCount 2**: Torso (spinal support).
+3. **missCount 3-6**: Progressive limb rendering (legs and arms).
+4. **Final State**: Full character body and terminal hanging animation.
 
 ## 4. Input & Event Handling
 The program employs an asynchronous event-handling model using `java.awt.event`:
