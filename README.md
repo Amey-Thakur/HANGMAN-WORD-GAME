@@ -35,7 +35,9 @@
 | <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/msatmod"><img src="https://raw.githubusercontent.com/Amey-Thakur/HANGMAN-WORD-GAME/main/Mega/Mega.png" width="150" height="150" alt="Mega Satish"></a><br>[**Mega Satish**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-green.svg)](https://orcid.org/0000-0002-1844-9557) |
 | :---: | :---: |
 
-  *Special thanks to [Mega Satish](https://github.com/msatmod) for her meaningful contributions, guidance, and support that helped shape this work.*
+> [!IMPORTANT]
+  > ### 🤝🏻 Special Acknowledgement
+  > *Special thanks to **[Mega Satish](https://github.com/msatmod)** for her meaningful contributions, guidance, and support that helped shape this work.*
 
 </div>
 
@@ -44,18 +46,22 @@
 <!-- OVERVIEW -->
 ## Overview
 
-This project implements the classic Hangman word guessing game using Java Applets. It features a graphical user interface built with AWT and Swing components, providing an interactive experience where players guess words to save a stick figure from the gallows.
+A classic Hangman Word Game developed as a mini-project for the Object-Oriented Programming Methodology (Java) Lab. The application challenges users to guess hidden words character by character within a limited number of attempts. It leverages **Java** for robust backend logic, utilizing fundamental **Object-Oriented Programming** principles like inheritance and encapsulation to structure the game's components effectively. This project showcases the practical application of Java syntax and logic to build an interactive and entertaining desktop application.
 
-**Key Components:**
-- Java Applet & AWT/Swing for GUI
-- Event handling for keyboard and mouse interactions
-- Custom drawing and animation for the hangman figure
-- Object-Oriented Design
+> [!NOTE]
+> **Research Impact**: The source code, presentation, and project report are published on **ResearchGate**.
+> - [ResearchGate Profile](https://www.researchgate.net/profile/Amey-Thakur)
+> - [Presentation DOI](http://dx.doi.org/10.13140/RG.2.2.26806.22082)
+> - [Source Code DOI](http://dx.doi.org/10.13140/RG.2.2.20095.33446)
 
-> [!TIP]
-> **Word List Expansion**
->
-> The game's vocabulary is defined within the `getHiddenWord()` method in `Mega.java`. The word bank can be extended by appending new entries to the `wordList` array, allowing for custom themes or increased vocabulary depth.
+### Resources
+
+| # | Resource | Description | Link |
+|---|---|---|---|
+| 1 | Presentation | Research paper presentation and visuals | [ResearchGate DOI](http://dx.doi.org/10.13140/RG.2.2.26806.22082) |
+| 2 | Source Code | Original source code publication | [ResearchGate DOI](http://dx.doi.org/10.13140/RG.2.2.20095.33446) |
+| 3 | Game Repository | Standalone repository for the game | [Hangman Word Game](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) |
+| 4 | Project README | Internal documentation for the mini-project | [Detailed Documentation](Mini-Project/README.md) |
 
 ---
 
