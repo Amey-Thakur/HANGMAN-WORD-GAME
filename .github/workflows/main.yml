@@ -1,0 +1,45 @@
+name: Deploy Hangman to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 8
+        uses: actions/setup-java@v4
+        with:
+          java-version: '8'
+          distribution: 'temurin'
+
+      - name: Compile Java Code
+        run: |
+          cd "Source Code"
+          javac Mega.java
+          jar cvf Mega.jar Mega.class
+
+      - name: Prepare Deployment Directory
+        run: |
+          mkdir public
+          cp "Source Code/Mega.jar" public/
+          cp "Source Code/index.html" public/
+          # Copy assets if needed (Mega.java uses Assets/ if any, but it seems self-contained or uses standard AWT)
+          # Based on code, it uses JOptionPane and Graphics. No external sprites mentioned except Mega/ folder which is root.
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public

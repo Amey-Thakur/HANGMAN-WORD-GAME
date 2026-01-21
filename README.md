@@ -9,7 +9,7 @@
 
   A classic graphical Hangman game implemented using Java Applets and AWT/Swing components.
 
-  **[Project Presentation](http://dx.doi.org/10.13140/RG.2.2.26806.22082)** &nbsp;·&nbsp; **[Source Code](http://dx.doi.org/10.13140/RG.2.2.20095.33446)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[Video Demo](https://youtu.be/JsT9KYKPUgs)**
+  **[Project Presentation](http://dx.doi.org/10.13140/RG.2.2.26806.22082)** &nbsp;·&nbsp; **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[Video Demo](https://youtu.be/JsT9KYKPUgs)** &nbsp;·&nbsp; **[Live Demo](https://amey-thakur.github.io/HANGMAN-WORD-GAME/)**
 
   [![Demo](https://img.youtube.com/vi/JsT9KYKPUgs/0.jpg)](https://youtu.be/JsT9KYKPUgs)
 
@@ -76,6 +76,13 @@ A classic Hangman Word Game developed as a mini-project for the Object-Oriented 
 | **Interactive Controls** | Mouse support for logic and keyboard for guessing |
 | **Win/Loss States** | Clear visual feedback for game outcomes |
 | **Animations** | Simple animation for the "hanging" sequence |
+| **Wasm Deployment** | Integrated **CheerpJ v3** for modern browser execution |
+
+### Tech Stack
+- **Language**: Java JDK 8
+- **UI Framework**: Java AWT / Swing (Applet)
+- **Web Runtime**: **CheerpJ v3** (JVM to WebAssembly)
+- **Deployment**: GitHub Actions & GitHub Pages
 
 ---
 
@@ -149,6 +156,10 @@ HANGMAN-WORD-GAME/
    ```bash
    appletviewer index.html
    ```
+
+**B. Web Execution (Recommended)**
+View the high-fidelity web simulation directly in any modern browser:
+[Launch Hangman Web Demo](https://amey-thakur.github.io/HANGMAN-WORD-GAME/)
 
 ---
 
