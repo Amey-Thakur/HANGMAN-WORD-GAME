@@ -1,4 +1,4 @@
-﻿/**
+/**
  * @file Mega.java
  * @project HANGMAN-WORD-GAME
  * @brief A classic graphical Hangman game implemented using Java Applets and AWT/Swing.
