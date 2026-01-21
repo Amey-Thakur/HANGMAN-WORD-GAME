@@ -7,7 +7,7 @@
   ![Java JDK 8](https://img.shields.io/badge/Java-JDK%208-orange?style=flat&logo=java&logoColor=white)
   [![Developed by Amey Thakur and Mega Satish](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Mega%20Satish-blue.svg)](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME)
 
-  A classic graphical Hangman game implemented using Java Applets and AWT/Swing components.
+   A classic graphical Hangman game developed as a **3rd-Semester Mini-Project** for the **Object-Oriented Programming Methodology (Java)** course. This implementation showcases fundamental OOP principles, graphical rendering using Java AWT/Swing, and event-driven interaction.
 
   **[Project Presentation](http://dx.doi.org/10.13140/RG.2.2.26806.22082)** &nbsp;·&nbsp; **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[Video Demo](https://youtu.be/JsT9KYKPUgs)** &nbsp;·&nbsp; **[Live Demo](https://amey-thakur.github.io/HANGMAN-WORD-GAME/)**
 
@@ -46,7 +46,7 @@
 <!-- OVERVIEW -->
 ## Overview
 
-A classic Hangman Word Game developed as a mini-project for the Object-Oriented Programming Methodology (Java) Lab. The application challenges users to guess hidden words character by character within a limited number of attempts. It leverages **Java** for robust backend logic, utilizing fundamental **Object-Oriented Programming** principles like inheritance and encapsulation to structure the game's components effectively. This project showcases the practical application of Java syntax and logic to build an interactive and entertaining desktop application.
+A classic Hangman Word Game developed as a **Semester III Mini-Project** for the **Object-Oriented Programming Methodology (OOPM)** Lab at Terna Engineering College. The application challenges users to guess hidden words character by character within a limited number of attempts. It leverages **Java JDK 8** for robust backend logic, utilizing core **Object-Oriented Programming** principles like inheritance and encapsulation to structure the game's components effectively. This project serves as a practical milestone in mastering Java syntax and graphical interface design during the academic journey of 2018-2022.
 
 > [!NOTE]
 > **Research Impact**: The source code, presentation, and project report are published on **ResearchGate**.
