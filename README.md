@@ -290,7 +290,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  🔬 **[OOPM Laboratory](https://github.com/Amey-Thakur/OOPM-JAVA-LAB)** &nbsp;·&nbsp; 🎮 **[HANGMAN-WORD-GAME](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME)**
+  🔬 **[OOPM Laboratory](https://github.com/Amey-Thakur/OOPM-JAVA-LAB)** &nbsp;·&nbsp; 🎮 **[HANGMAN-WORD-GAME](https://amey-thakur.github.io/HANGMAN-WORD-GAME/)**
 
   ---
 
