@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hangman Word Game | Amey & Mega</title>
+    <script src="https://cjrtnc.leaningtech.com/4.2/loader.js"></script>
     <style>
         body {
             margin: 0;
@@ -17,29 +18,6 @@
             align-items: center;
             justify-content: center;
             min-height: 100vh;
-            overflow: hidden;
-        }
-
-        #app-container {
-            width: 1000px;
-            height: 625px;
-            background: #161b22;
-            border-radius: 12px;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
-            border: 1px solid #30363d;
-            overflow: hidden;
-            position: relative;
-        }
-
-        #status {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            font-size: 18px;
-            color: #8b949e;
-            text-align: center;
-            z-index: 10;
         }
 
         .header {
@@ -65,9 +43,11 @@
             color: #8b949e;
         }
 
-        #cheerpj-container {
-            width: 100%;
-            height: 100%;
+        #applet-container {
+            border-radius: 12px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+            border: 1px solid #30363d;
+            overflow: hidden;
         }
     </style>
 </head>
@@ -79,60 +59,16 @@
         <p>Presented as part of the 3rd Semester Mini-Project @ Terna Engineering College</p>
     </div>
 
-    <div id="status">Connecting to CheerpJ Runtime...</div>
-    <div id="app-container">
-        <div id="cheerpj-container"></div>
+    <div id="applet-container">
+        <cheerpj-applet archive="Mega.jar" code="Mega" width="1000" height="625"></cheerpj-applet>
     </div>
 
     <div class="footer">
-        Powered by CheerpJ v3 & WebAssembly | &copy; 2020 Amey & Mega
+        Powered by CheerpJ & WebAssembly | &copy; 2020 Amey & Mega
     </div>
 
     <script>
-        function loadScript(src) {
-            return new Promise((resolve, reject) => {
-                const script = document.createElement('script');
-                script.src = src;
-                script.onload = resolve;
-                script.onerror = reject;
-                document.head.appendChild(script);
-            });
-        }
-
-        async function initGame() {
-            const status = document.getElementById('status');
-
-            try {
-                // Manually load CheerpJ loader to have better control
-                await loadScript("https://cjrtnc.leaningtech.com/3.0/loader.js");
-
-                status.innerText = "Initializing CheerpJ Engine...";
-
-                // Initialize CheerpJ runtime
-                await cheerpjInit({
-                    enablePreciseMath: true,
-                    javaProperties: ["java.version=1.8.0"]
-                });
-
-                status.innerText = "Launching Applet Archive...";
-
-                await cheerpjRunApplet({
-                    code: "Mega.class",
-                    archive: "Mega.jar",
-                    width: 1000,
-                    height: 625,
-                    container: document.getElementById("cheerpj-container")
-                });
-
-                status.style.display = 'none';
-            } catch (e) {
-                status.innerText = "Error: Failed to initialize CheerpJ.\n" + e.message;
-                status.style.color = "#ff7b72";
-                console.error("CheerpJ Initialization Error:", e);
-            }
-        }
-
-        initGame();
+        cheerpjInit();
     </script>
 </body>
 
