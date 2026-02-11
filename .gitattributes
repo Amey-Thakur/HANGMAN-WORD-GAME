@@ -7,6 +7,8 @@
 # Ensure text and source files use LF on checkout
 *.md text eol=lf
 *.java text eol=lf diff=java
+*.html linguist-vendored
+
 *.txt text eol=lf
 *.cff text eol=lf
 *.json text eol=lf
