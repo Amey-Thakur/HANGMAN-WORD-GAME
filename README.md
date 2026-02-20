@@ -158,9 +158,11 @@ HANGMAN-WORD-GAME/
    ```
 
 > [!TIP]
-> **Web Execution (Recommended)**
+> **Modern Browser-Based Web Execution (Recommended)**
 >
-> View the high-fidelity web simulation directly in any modern browser: [**Launch Hangman Web Demo**](https://amey-thakur.github.io/HANGMAN-WORD-GAME/)
+> Experience the high-fidelity graphical simulation of the Hangman Word Game directly in any modern web browser, powered by advanced CheerpJ v3 JVM-to-WebAssembly technology.
+>
+> [**Launch Live Hangman Web Demo**](https://amey-thakur.github.io/HANGMAN-WORD-GAME/)
 
 ---
 
