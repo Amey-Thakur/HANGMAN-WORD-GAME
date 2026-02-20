@@ -157,9 +157,10 @@ HANGMAN-WORD-GAME/
    appletviewer index.html
    ```
 
-**B. Web Execution (Recommended)**
-View the high-fidelity web simulation directly in any modern browser:
-[Launch Hangman Web Demo](https://amey-thakur.github.io/HANGMAN-WORD-GAME/)
+> [!TIP]
+> **Web Execution (Recommended)**
+>
+> View the high-fidelity web simulation directly in any modern browser: [**Launch Hangman Web Demo**](https://amey-thakur.github.io/HANGMAN-WORD-GAME/)
 
 ---
 
