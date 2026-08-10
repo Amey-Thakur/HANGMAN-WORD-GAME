@@ -9,8 +9,8 @@
   [![Presentation](https://img.shields.io/badge/Presentation-orange.svg)](WordGame.pptx)
   [![Video Demo](https://img.shields.io/badge/Video%20Demo-blue.svg)](Applet.mp4)
   [![Visual Results](https://img.shields.io/badge/Visual%20Results-green.svg)](Outputs/)
-  [![Status](https://img.shields.io/badge/Status-Completed-green.svg)](./)
-  [![Language](https://img.shields.io/badge/Language-Java%20JDK%208-orange.svg)](../Source%20Code/Mega.java)
+  [![Status](https://img.shields.io/badge/Status-Completed-2EA043.svg)](./)
+  [![Language](https://img.shields.io/badge/Language-Java%20JDK%208-8250DF.svg)](../Source%20Code/Mega.java)
 
   **Comprehensive documentation including the technical report, presentation, demonstration video, and all gameplay outcomes.**
 
@@ -33,7 +33,7 @@
 This directory contains the formal documentation and media assets for the **Hangman Word Game**, developed as a 3rd-semester mini-project for the Object-Oriented Programming Methodology (OOPM) course. 
 
 The project highlights the technical application of:
-- **Graphical User Interfaces**: Implementation utilizing Java Applet and AWT/Swing frameworks.
+- **Graphical User Interfaces**: Implementation using Java Applet and AWT/Swing frameworks.
 - **Academic Documentation**: Formal technical report and scholarly presentation materials.
 - **Empirical Demonstration**: Verification of software functionality via recorded media and outcome captures.
 
@@ -62,7 +62,7 @@ The software execution and gameplay flow are documented in a high-fidelity video
 <!-- VISUAL RESULTS -->
 ## Visual Results
 
-The [Outputs/](Outputs/) directory serves as a comprehensive record of game states, containing 19 unique captures documented during validation phases.
+The [Outputs/](Outputs/) directory serves as a complete record of game states, containing 19 unique captures documented during validation phases.
 
 ### Technical Record Highlights:
 - **Initialization Sequence**: Welcome interface, operational instructions, lexical hint dialogs, and player registration.

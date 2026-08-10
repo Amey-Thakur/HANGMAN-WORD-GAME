@@ -2,12 +2,12 @@
 
   # Hangman Word Game
 
-  [![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
-  ![Status](https://img.shields.io/badge/Status-Completed-success)
-  ![Java JDK 8](https://img.shields.io/badge/Java-JDK%208-orange?style=flat&logo=java&logoColor=white)
-  [![Developed by Amey Thakur and Mega Satish](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Mega%20Satish-blue.svg)](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME)
+  [![License](https://img.shields.io/badge/License-MIT-9E9E9E)](LICENSE)
+  ![Status](https://img.shields.io/badge/Status-Completed-2EA043)
+  ![Java JDK 8](https://img.shields.io/badge/Java-JDK%208-8250DF?style=flat&logo=java&logoColor=white)
+  [![Developed by Amey Thakur and Mega Satish](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Mega%20Satish-0969DA.svg)](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME)
 
-   A classic graphical Hangman game developed as a **3rd-Semester Mini-Project** for the **Object-Oriented Programming Methodology (Java)** course. This implementation showcases fundamental OOP principles, graphical rendering using Java AWT/Swing, and event-driven interaction.
+   A classic graphical Hangman game developed as a **3rd-Semester Mini-Project** for the **Object-Oriented Programming Methodology (Java)** course. This implementation presents fundamental OOP principles, graphical rendering using Java AWT/Swing, and event-driven interaction.
 
   **[Project Presentation](http://dx.doi.org/10.13140/RG.2.2.26806.22082)** &nbsp;·&nbsp; **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[Video Demo](https://youtu.be/JsT9KYKPUgs)** &nbsp;·&nbsp; **[Live Demo](https://amey-thakur.github.io/HANGMAN-WORD-GAME/)**
 
@@ -32,7 +32,7 @@
 
   **Terna Engineering College | Computer Engineering | Batch of 2022**
 
-| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/msatmod"><img src="https://raw.githubusercontent.com/Amey-Thakur/HANGMAN-WORD-GAME/main/Mega/Mega.png" width="150" height="150" alt="Mega Satish"></a><br>[**Mega Satish**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-green.svg)](https://orcid.org/0000-0002-1844-9557) |
+| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-A6CE39.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/msatmod"><img src="https://raw.githubusercontent.com/Amey-Thakur/HANGMAN-WORD-GAME/main/Mega/Mega.png" width="150" height="150" alt="Mega Satish"></a><br>[**Mega Satish**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-A6CE39.svg)](https://orcid.org/0000-0002-1844-9557) |
 | :---: | :---: |
 
 </div>
@@ -46,7 +46,7 @@
 <!-- OVERVIEW -->
 ## Overview
 
-A classic Hangman Word Game developed as a **Semester III Mini-Project** for the **Object-Oriented Programming Methodology (OOPM)** Lab at Terna Engineering College. The application challenges users to guess hidden words character by character within a limited number of attempts. It leverages **Java JDK 8** for robust backend logic, utilizing core **Object-Oriented Programming** principles like inheritance and encapsulation to structure the game's components effectively. This project serves as a practical milestone in mastering Java syntax and graphical interface design during the academic journey of 2018-2022.
+A classic Hangman Word Game developed as a **Semester III Mini-Project** for the **Object-Oriented Programming Methodology (OOPM)** Lab at Terna Engineering College. The application challenges users to guess hidden words character by character within a limited number of attempts. It leverages **Java JDK 8** for robust backend logic, using core **Object-Oriented Programming** principles like inheritance and encapsulation to structure the game's components effectively. This project serves as a practical milestone in mastering Java syntax and graphical interface design during the academic journey of 2018-2022.
 
 > [!NOTE]
 > **Research Impact**: The source code, presentation, and project report are published on **ResearchGate**.
@@ -243,7 +243,7 @@ This repository is openly shared to support learning and knowledge exchange acro
 Use this mini-project as a reference for understanding Java Applets, AWT/Swing GUI development, and object-oriented game logic. The source code is documented to facilitate self-paced learning and exploration of graphical programming concepts.
 
 **For Educators**  
-This project may serve as a practical example or supplementary teaching resource for Object-Oriented Programming Methodology courses (`CSL304`). Attribution is appreciated when utilizing content.
+This project may serve as a practical example or supplementary teaching resource for Object-Oriented Programming Methodology courses (`CSL304`). Attribution is appreciated when using content.
 
 **For Researchers**  
 The documentation and organization provide insights into academic project curation and educational software structuring.
@@ -270,7 +270,7 @@ Copyright © 2020 Amey Thakur, Mega Satish
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
 
-This project features the Hangman Word Game, a graphical Java application developed as a 3rd-semester mini-project for the Object-Oriented Programming Methodology (OOPM) course. It showcases the practical application of core Java concepts, graphics programming, and user-centric design.
+This project features the Hangman Word Game, a graphical Java application developed as a 3rd-semester mini-project for the Object-Oriented Programming Methodology (OOPM) course. It presents the practical application of core Java concepts, graphics programming, and user-centric design.
 
 **Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
