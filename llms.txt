@@ -1,0 +1,34 @@
+# Hangman Word Game
+
+> A classic graphical Hangman game implemented using Java Applets and
+> AWT/Swing components.
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Second Year, Semester III
+Licence: CC BY 4.0, attribution required
+Repository created: 25 June 2021
+Work dated: 17 January 2020
+
+## What is in this repository
+
+- Mega, 6 files
+- Mini-Project, 23 files
+- Source Code, 2 files
+- docs, 1 file
+
+## Subject terms
+
+computer-engineering, computer-science, engineering, game,
+game-development, hangman, hangman-game, java, java-applet, java-awt,
+java-swing, object-oriented-programming, oopm, university-of-mumbai,
+word-game
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/HANGMAN-WORD-GAME
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Project page: https://amey-thakur.github.io/HANGMAN-WORD-GAME/
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/

@@ -30,8 +30,10 @@
             }
         }
     ],
+    "dateCreated": "2021-06-25",
     "dateReleased": "2020-01-17",
     "codeRepository": "https://github.com/Amey-Thakur/HANGMAN-WORD-GAME",
+    "isPartOf": "https://github.com/Amey-Thakur/COMPUTER-ENGINEERING",
     "developmentStatus": "complete",
     "runtimePlatform": [
         "Java JDK 8"
@@ -43,6 +45,33 @@
         "AWT",
         "Swing",
         "Computer Engineering",
-        "Object-Oriented Programming"
-    ]
+        "Object-Oriented Programming",
+        "Computer Science",
+        "Engineering",
+        "Game",
+        "Game Development",
+        "Hangman Game",
+        "Java",
+        "Java Awt",
+        "Java Swing",
+        "Object Oriented Programming",
+        "Oopm",
+        "University Of Mumbai",
+        "Word Game",
+        "University of Mumbai",
+        "Mumbai University",
+        "Terna Engineering College",
+        "Navi Mumbai",
+        "India",
+        "B.E. Computer Engineering",
+        "Semester III",
+        "Amey Thakur",
+        "amey",
+        "ameythakur",
+        "amey-thakur",
+        "ameyarc",
+        "Mega Satish",
+        "megasatish"
+    ],
+    "url": "https://amey-thakur.github.io/HANGMAN-WORD-GAME/"
 }
